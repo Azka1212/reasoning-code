@@ -8,7 +8,7 @@ The findings show that reasoning gains at shallow depths collapse sharply as tas
 
 ## Architecture Diagram
 <p align="center">
-  <img src="AAAI/Diagram3.png" width="800" height="450">
+  <img src="AAAI/Diagram3.png" width="800" height="600">
 </p>
 
 
@@ -45,5 +45,6 @@ The findings show that reasoning gains at shallow depths collapse sharply as tas
 Reasoning prompts help only at **very shallow depths**.  
 As depth increases, accuracy drops sharply, and in many cases reasoning accuracy falls **below direct answers**, revealing that current LLM reasoning is **brittle, depth-sensitive, and unstable**.  
 This framework provides a simple, reproducible way to measure collapse-depth and compare reasoning robustness across models.
+
 
 
