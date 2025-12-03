@@ -1,0 +1,6 @@
+model_key,est_cost_usd
+gpt5,1.353
+glm45_air,0.0876
+deepseek_r1d_qwen32b,0.0382
+qwen25_7b,0.0103
+llama31_8b,0.0078

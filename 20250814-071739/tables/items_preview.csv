@@ -1,0 +1,21 @@
+dataset,depth,id,input_snippet,query,gold
+clutrr,2,clutrr:d4ff2c69-eaa9-4ba0-9f9f-33579afd323f,[Ashley]'s son [Nicholas] and son [George] went to the park together to play.,"('Nicholas', 'George')",brother
+clutrr,2,clutrr:2896c293-fe1c-4554-8faa-43d0933a84d0,"[Jennifer] always loved when her grandmother [Ashley] visited, because she always got presents. [Natalia] was talking ab…","('Natalia', 'Ashley')",grandmother
+clutrr,3,clutrr:24f02008-e43a-480b-814f-3c5bca945980,"[Wesley] and his daughter [Martha] spent Father's Day together. [Martha] took her dad out to a sports bar, and they had …","('Lena', 'Pamela')",daughter
+clutrr,3,clutrr:0634c05e-fc36-4f1b-85f5-ca0b3ce34990,"[Francisco] needed his brother, [Wesley], to help with a problem [Chris] does n't like his grandfather [James]. The boy …","('Francisco', 'James')",father
+clutrr,4,clutrr:cee2db10-8a67-4cae-a3b7-02ef3ba79f9f,"[Nicole] misses her father [Louis] when she is at school. [Michael]'s grandfather, [Harold] was making dinner for the fa…","('Nicole', 'Harold')",grandfather
+clutrr,4,clutrr:6b7720df-f16a-4fa6-81dd-b8668bc506cc,[Bobby] and is making a special card for his grandmother [Shantel]. [Allan]'s father's name is [Robert]. [Antonio] was s…,"('Antonio', 'Allan')",nephew
+clutrr,5,clutrr:dc0b42ee-b6fe-4746-86e6-b0fd8a10535a,[Milton] invited his father [Jose] and his brother [Samuel] to go on a weekend fishing trip. [Angela] did the laundry wi…,"('Jose', 'Adeline')",granddaughter
+clutrr,5,clutrr:5131260d-b36f-4009-89f7-1c94e325d132,[Guadalupe] had picked her daughter [Margaretta] out the cutest new dress to wear on her birthday. [Milton] bought toys …,"('Guadalupe', 'Gilbert')",nephew
+clutrr,6,clutrr:78e69cbf-0f3b-48fd-a8ed-3fc2382c9d71,[Katherine] and her daughter [Jon] like to look at the stars on clear nights. [Katherine] often borrows the telescope th…,"('Clifton', 'Ronald')",nephew
+clutrr,6,clutrr:76ff4690-db3d-44e9-af0b-752d39aa84d5,"[Erica] loves cooking for her son. His name is [Alfredo] [Alfredo] and his brother, [Ross] run a turtle farm. [Bonnie] a…","('Dorothy', 'Ross')",nephew
+proofwriter,1,proof:548b270057840f05,"Charlie is young. Harry is big. Cold, nice people are smart. Nice, kind people are smart. White, young people are kind. …",Harry is smart.,Unknown
+proofwriter,1,proof:1d6931d6bf87a793,The cow sees the lion. The cow visits the squirrel. The dog is red. The lion is young. The lion visits the squirrel. The…,The lion eats the dog.,Unknown
+proofwriter,2,proof:0de03e2150c1718c,The bear chases the tiger. The tiger is round. If the bear visits the tiger and the tiger chases the bear then the tiger…,The tiger does not eat the tiger.,Unknown
+proofwriter,2,proof:abf549a96872e12e,Bob is green. Bob is rough. Bob is round. Charlie is not green. Charlie is rough. Charlie is round. Charlie is smart. Er…,Charlie is quiet.,True
+proofwriter,3,proof:53fac7c7f1cf0eae,Anne is cold. Anne is red. Anne is white. Charlie is cold. Charlie is green. Charlie is red. Harry is white. If somethin…,Harry is blue.,True
+proofwriter,3,proof:052f7defef2b2fdb,The cat chases the mouse. The mouse likes the cat. If someone needs the mouse then they are kind. If the mouse needs the…,The cat is not big.,Unknown
+proofwriter,4,proof:31a75fb97e92b594,"Alan is a big fellow, often blue and sad, but he is nice. Dave is still young, which explains why he is round and cold, …",Dave is big.,True
+proofwriter,4,proof:87bd99e611345592,The cow eats the mouse. The cow is cold. The cow needs the mouse. The mouse eats the tiger. The mouse needs the tiger. T…,The cow does not need the tiger.,False
+proofwriter,5,proof:34f03b7f18c766d4,The bear does not chase the mouse. The bear chases the squirrel. The bear is cold. The bear is green. The bear is kind. …,The lion visits the squirrel.,True
+proofwriter,5,proof:078290908350c8ee,The mouse chases the tiger. The mouse is cold. The rabbit chases the squirrel. The rabbit is nice. The rabbit needs the …,The mouse does not need the mouse.,False

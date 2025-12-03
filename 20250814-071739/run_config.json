@@ -1,0 +1,56 @@
+{
+  "run_tag": "20250814-071739",
+  "constants": {
+    "N_PER_DEPTH": 10,
+    "DIRECT_MAX": 32,
+    "REASON_MAX": 256,
+    "BUDGETS": [
+      64,
+      128,
+      256
+    ],
+    "RANDOM_SEED": 42
+  },
+  "models": {
+    "llama31_8b": {
+      "provider": "deepinfra",
+      "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+      "price_in": 0.03,
+      "price_out": 0.05,
+      "supports_reasoning_effort": false,
+      "uses_max_output_tokens": false
+    },
+    "qwen25_7b": {
+      "provider": "deepinfra",
+      "model": "Qwen/Qwen2.5-7B-Instruct",
+      "price_in": 0.04,
+      "price_out": 0.1,
+      "supports_reasoning_effort": false,
+      "uses_max_output_tokens": false
+    },
+    "deepseek_r1d_qwen32b": {
+      "provider": "deepinfra",
+      "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+      "price_in": 0.075,
+      "price_out": 0.15,
+      "supports_reasoning_effort": false,
+      "uses_max_output_tokens": false
+    },
+    "glm45_air": {
+      "provider": "deepinfra",
+      "model": "zai-org/GLM-4.5-Air",
+      "price_in": 0.2,
+      "price_out": 1.1,
+      "supports_reasoning_effort": true,
+      "uses_max_output_tokens": false
+    },
+    "gpt5": {
+      "provider": "openai",
+      "model": "gpt-5",
+      "price_in": 1.25,
+      "price_out": 10.0,
+      "supports_reasoning_effort": true,
+      "uses_max_output_tokens": true
+    }
+  }
+}

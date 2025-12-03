@@ -1,0 +1,1074 @@
+model_key,provider,model,mode,dataset,depth,id,gold,pred,raw,prompt_tokens,completion_tokens,est_cost_usd,d_hat,b_hat,budget,changed_by_verify
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,2,clutrr:d4ff2c69-eaa9-4ba0-9f9f-33579afd323f,brother,son,"<think>
+Okay, so I need to figure out the relationship between Nicholas and George based on the story provided. Let me read the story again carefully. It says that Ashley's son Nicholas and son George went to the park together to play. Hmm, so Ashley has two sons: Nicholas and George. That means both of them are sons of Ashley. 
+
+Now, the question is asking about the relationship between Nicholas and George. Since they are both sons of the same person, Ashley, that makes them brothers. So, Nicholas is George's brother, and George is Nicholas's brother. 
+
+Looking at the list of possible labels, I see",114,128,2.8e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,2,clutrr:2896c293-fe1c-4554-8faa-43d0933a84d0,grandmother,grandmother,"<think>
+Okay, so I need to figure out the relationship between Natalia and Ashley based on the story provided. Let me read through the story again to make sure I understand all the details.
+
+The story says that Jennifer always loved when her grandmother Ashley visited because she always got presents. Then, Natalia was talking about food with her sister Jennifer. So, Jennifer has a sister named Natalia, and their grandmother is Ashley.
+
+Now, the question is asking about the relationship between Natalia and Ashley. The possible labels are aunt, son-in-law, grandfather, brother, sister, father, mother, grandmother, uncle, daughter-in-law",128,128,2.9e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,2,clutrr:283a113d-0f2f-4ebe-977c-44fbb9345fe7,grandfather,brother,"<think>
+Okay, so I need to figure out the relationship between Lorraine and Clarence based on the story provided. Let me break it down step by step.
+
+First, the story says that Lorraine was on the phone with her brother Jeff. So, Lorraine is Jeff's sister. That part is clear.
+
+Then, Jeff had his grandfather Clarence over for lunch. So, Clarence is Jeff's grandfather. Now, I need to determine what Clarence is to Lorraine.
+
+Since Jeff is Lorraine's brother, their parents are Lorraine's parents as well. Therefore, Jeff's grandfather would be Lorraine's grandfather too. Because grandparents",121,128,2.8e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,2,clutrr:de37ad3e-820e-4c58-a246-2babf1e83096,granddaughter,daughter,"<think>
+Alright, let's try to figure out the relationship between Ashley and April based on the given story. So, the story says that George is taking his daughter April out for lunch. Then it mentions that Ashley's son, George, recently started a pawn shop. 
+
+Wait, so Ashley has a son named George, and that same George is the father of April. So Ashley is the mother of George, who is April's father. That makes Ashley April's grandmother. Because if George is April's dad, and Ashley is George's mom, then Ashley is April's grandmother. 
+
+Let me double-check that. So, Ashley",125,128,2.9e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,2,clutrr:1f13bb75-6c38-42eb-a193-cd7f3433b3e1,sister,daughter,"<think>
+Okay, so I need to figure out the relationship between Theresa and Lillian based on the story provided. Let me read through the story again to make sure I understand all the details.
+
+Theresa comes home from work and finds her daughter Jesse asleep on the couch. Jesse's older brother, Nicolas, is doing his homework in his room. Nicolas is excited about visiting his aunt Lillian this summer.
+
+Alright, so let's break this down. Theresa is the parent of Jesse and Nicolas because they are her daughter and son. That makes Theresa their mother. Now, Nicolas is visiting his aunt Lillian. Since Nicolas is Theresa's",147,128,3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,2,clutrr:5a332849-b5f8-44c6-8140-77d31c127d24,daughter,wife,"<think>
+Okay, so I need to figure out the relationship between Lillian and Andrea based on the story provided. Let me read through the story again to make sure I understand all the details.
+
+The story says that George's wife, Lillian, was injured while working out. Thankfully, Andrea, George's daughter, is a nurse. So, George has a wife named Lillian and a daughter named Andrea. 
+
+Now, the question is asking about the relationship between Lillian and Andrea. The possible labels are a list of family relations like aunt, son-in-law, grandfather, etc. I need to pick the correct one from that",127,128,2.9e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,2,clutrr:0dd9e857-dfe2-454c-b127-9259184ee3f5,mother-in-law,daughter,"<think>
+Alright, let's try to figure out the relationship between Douglas and Lillian based on the story provided. 
+
+First, the story mentions that Lillian and her daughter April went shopping together last Monday. They bought new shoes for Lillian's kids. So, Lillian has children, and April is her daughter. That makes April Lillian's daughter.
+
+Next, it says that Douglas had a wife named April. So, Douglas is married to April. Since April is Lillian's daughter, that means Douglas is married to Lillian's daughter. 
+
+Now, in terms of family relationships, when a man is married to someone",130,128,2.9e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,2,clutrr:974a2a9a-6206-43cc-8096-7e8de1bf2561,father,brother,"<think>
+Okay, so I need to figure out the relationship between Kevin and Wayne based on the story provided. Let me read through the story again to make sure I understand all the details.
+
+Heidi and her brother Kevin went to the movies together. Heidi needed to ask her father Wayne for a loan. So, Heidi is the daughter of Wayne, which makes Kevin Wayne's son because Kevin is Heidi's brother. 
+
+Now, the question is asking about the relationship between Kevin and Wayne. Since Kevin is Heidi's brother and Heidi's father is Wayne, that means Kevin is Wayne's son. So, the label that fits here is """,124,128,2.9e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,2,clutrr:4ec92c57-502b-4798-b150-1cedfd1f0f86,granddaughter,daughter,"<think>
+Okay, so I need to figure out the relationship between Clarence and Louise based on the story provided. Let me break it down step by step.
+
+First, the story says that Clarence took his daughter Nancy to the father-daughter dance at church. So, Clarence is Nancy's father. That makes sense because it's a father-daughter event, so Clarence is definitely Nancy's dad.
+
+Next, it mentions that Nancy's daughter, Louise, asked her mom to read her a story. So, Nancy has a daughter named Louise. That means Louise is Nancy's child, making her Clarence's granddaughter because Clarence is Nancy's father.
+
+",132,128,2.9e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,2,clutrr:81b2b81c-5a95-43b2-8fac-e34b1662f8ad,daughter,son,"<think>
+Okay, so I need to figure out the relationship between Nancy and Linda based on the story provided. Let me read through the story again to make sure I understand all the details.
+
+The story says that Nancy's son Robert is running for class president, and Robert's sister Linda is helping make signs. So, Nancy has a son named Robert, and Robert has a sister named Linda. 
+
+Now, the question is asking about the relationship between Nancy and Linda. The options given are a list of possible family relationships, and I need to pick the correct one from that list.
+
+Let me break it down. Nancy is the mother of",120,128,2.8e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,3,clutrr:24f02008-e43a-480b-814f-3c5bca945980,daughter,wife,"<think>
+Alright, let's try to figure out the relationship between Lena and Pamela. So, from the story, we have a few characters: Wesley, Martha, Lena, and Pamela. 
+
+First, Wesley is Martha's dad because it says they spent Father's Day together. Then, Lena is Wesley's wife because they went to New York for the holidays together. So Lena is married to Wesley, making her Martha's stepmother or mother-in-law, but since Martha is Wesley's daughter, Lena would be her stepmother. However, the options don't include stepmother, so maybe we need to look at it differently.
+
+Wait",187,128,3.3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,3,clutrr:0634c05e-fc36-4f1b-85f5-ca0b3ce34990,father,brother,"<think>
+Alright, let's try to figure out the relationship between Francisco and James based on the story provided. 
+
+First, the story mentions Francisco needing his brother Wesley's help. So, Francisco and Wesley are brothers. Then, it says that Wesley was happy his son Chris is doing well in college. So Wesley is Chris's father, making Chris Wesley's son. 
+
+Now, the problem is that Chris doesn't like his grandfather James. So, James is Chris's grandfather. Since Wesley is Chris's father, James must be Wesley's father. Therefore, James is Wesley's father, which makes him Francisco's father as well because",150,128,3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,3,clutrr:95ad1142-342c-4f3e-9046-3e00fd3d6802,granddaughter,mother,"<think>
+Alright, let's try to figure out the relationship between James and Mildred based on the story provided. 
+
+First, I'll break down the information given. 
+
+Pamela is celebrating her birthday with her mother Lena. So, Lena is Pamela's mother. 
+
+Next, James has a daughter named Kelly who gave up her child secretly as a teenager. That child is Pamela. So, Kelly is Pamela's biological mother, and James is Kelly's father, making James Pamela's grandfather. 
+
+Then, Mildred and her mother Lena went to volunteer at the homeless shelter. Since Lena is Pamela's mother, and Mildred",170,128,3.2e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,3,clutrr:4190c92c-9e29-45c0-9250-e1125f3df179,mother-in-law,daughter,"<think>
+Alright, let's try to figure out the relationship between Clarence and Lynn based on the story provided. 
+
+First, I'll break down the information given:
+
+1. Lynn took her daughter Felicia to see her first ballet performance. So, Lynn is Felicia's mother.
+2. Juanita is taking a trip to see her sister Felicia. That means Juanita is Felicia's sister, making Juanita Lynn's daughter as well since Lynn is Felicia's mother. Wait, no, that can't be right because if Juanita is Felicia's sister, then Juanita is also Lynn's daughter. So,",144,128,3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,3,clutrr:020994c1-b7dd-4e45-9d2f-792daf27be96,uncle,mother,"<think>
+Okay, let's try to figure out the relationship between Gloria and Joshua. So, the story says that Gloria loves her mother, David. Wait, that's a bit confusing because usually, a mother is female, but David is a male name. Maybe it's a typo, but I'll go with it as given. So, David is Gloria's mother. Then, David's son is Johnson. So, Johnson is the son of David, who is Gloria's mother. That would make Johnson Gloria's brother because they share the same mother, David.
+
+Next, Joshua called his nephew Johnson. So, Joshua is the uncle",141,128,3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,3,clutrr:80f5d8b9-80e0-432d-b9ad-7154cff8d7a7,brother,niece,"<think>
+Okay, so I need to figure out the relationship between David and Francisco based on the story provided. Let me read through the story again to make sure I understand all the details.
+
+Francisco is picking up his niece Dolores from school because her parents are working. Dolores was looking at her mother Lynn closely because Lynn was sitting next to her twin sister David. 
+
+Wait, so Dolores's mother is Lynn, and Lynn has a twin sister named David. That means David is Dolores's aunt because she's the sister of Dolores's mother. Now, Francisco is Dolores's uncle because he's the brother of",150,128,3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,3,clutrr:ae01053c-f4ab-4235-8321-669b6bba29b5,nephew,father,"<think>
+Alright, let's try to figure out the relationship between David and Leonard based on the story provided. 
+
+First, I'll break down the information given. The story mentions several characters: Pete, his father Francisco, Leonard, and David. 
+
+Leonard and Pete went to the arcade, so they're brothers. That means Leonard is Pete's brother. Since Pete's father is Francisco, that makes Francisco the father of both Pete and Leonard. So, Francisco is Leonard's father as well.
+
+Now, the story also says that David doesn't like babysitting his younger brother, Francisco. Wait, that's interesting because earlier it",144,128,3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,3,clutrr:2650e85e-bed0-47af-8c60-fdf438778a08,granddaughter,grandson,"<think>
+Alright, let's try to figure out the relationship between James and Tina based on the story provided. 
+
+First, the story mentions James having a grandson named Chris who went to college at James's alma mater. So, James is the grandfather of Chris. Then, Chris graduated with honors, and Theodore invited his sister Tina to dinner. So, Theodore has a sister named Tina. 
+
+Next, it says Theodore's brother Chris was too busy to attend. Wait, that's a bit confusing because earlier, Chris is James's grandson. So, does that mean Theodore has a brother named Chris, who is also James's grandson?",144,128,3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,3,clutrr:74ee1d21-2079-4819-9a2c-5bb8ad31b1a4,niece,brother,"<think>
+Okay, so I need to figure out the relationship between Lynn and Carrie based on the story provided. Let me break it down step by step.
+
+First, the story says that Lynn went to the park with her brother Hugh. So, Lynn and Hugh are siblings. Then, it mentions that Hugh's brother Francisco wanted to come too but was too busy. So, Francisco is Hugh's brother, making him Lynn's uncle because he's her brother's brother.
+
+Francisco sent his daughter Carrie to tell them he couldn't make it. So, Carrie is Francisco's daughter. Since Francisco is Hugh's brother, Carrie is Hugh's",145,128,3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,3,clutrr:2994ec28-f071-4b22-b34a-d6a6ad760120,niece,daughter,"<think>
+Okay, so I need to figure out the relationship between Cindy and Martha based on the story provided. Let me read through the story again to make sure I understand all the details.
+
+The story says that Cindy's daughter is Carrie, who just graduated high school. Lena is teaching her niece, Carrie, how to bake a homemade apple pie. So Lena is Carrie's aunt because she's teaching her niece. That makes sense because niece implies that Lena is the sister of Carrie's parent, which would be Cindy or her husband. But since Lena is teaching Carrie, it's more likely that Lena is Cindy's sister, making her Carrie",145,128,3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,4,clutrr:cee2db10-8a67-4cae-a3b7-02ef3ba79f9f,grandfather,father,"<think>
+Alright, let's try to figure out the relationship between Nicole and Harold based on the story provided. 
+
+First, I'll break down the information given. Nicole misses her father, Louis, when she's at school. So, Nicole's father is Louis. Then, Michael's grandfather is Harold, who is making dinner. Michael's father is Louis, and his mother is Beverly. 
+
+So, Louis is both Nicole's father and Michael's father. That makes Nicole and Michael siblings. Now, Harold is Michael's grandfather, which means he's the father of Michael's father, Louis. Therefore, Harold is Louis's father",147,128,3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,4,clutrr:6b7720df-f16a-4fa6-81dd-b8668bc506cc,nephew,grandmother,"<think>
+Okay, so I need to figure out the relationship between Antonio and Allan based on the story provided. Let me read through the story again to make sure I understand all the details.
+
+The story mentions several people: Bobby, Shantel, Allan, Robert, and Antonio. Let's break down the relationships step by step.
+
+First, it says that Bobby is making a special card for his grandmother Shantel. So, Bobby's grandmother is Shantel. That means Shantel is Bobby's grandmother, which makes her Bobby's mother's mother or father's mother. But we don't know yet which side.
+
+Next",160,128,3.1e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,4,clutrr:afdfb0cd-5ef5-410c-a881-508ebe773ca6,mother-in-law,nephew,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Shantel based on the story provided. 
+
+First, I'll break down the information given step by step. Dorothy and Pedro are married, celebrating their 20th anniversary. Louis is Pedro's brother, so that makes Louis Dorothy's brother-in-law. Louis went on a road trip with his youngest child, Paul. So Paul is Louis's son, which makes Paul Dorothy's nephew because he's the child of her brother-in-law.
+
+Next, Shantel and her grandson Paul went to the library. Wait, Paul is both Louis's son and",194,128,3.4e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,4,clutrr:50f2eec6-a5e0-459b-9e39-8137da6f1150,brother,son,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Robert based on the story provided. 
+
+First, I'll break down the story step by step to understand the family connections.
+
+1. Harold made a sandwich for his son Louis. So, Harold is the father of Louis.
+2. Louis's brother is Robert. That means Robert is the brother of Louis, making Robert Harold's son as well. So, Robert is Harold's son and Louis's brother.
+3. Harold helped his grandson Jeffrey cut the lawn for Jeffrey's mother, Dorothy. So, Jeffrey is Harold's grandson, which means Jeffrey's mother is",145,128,3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,4,clutrr:d0c3d5dc-7e3a-43fb-b97e-aeca5709cf90,uncle,daughter,"<think>
+Alright, let's try to figure out the relationship between Lizzie and Antonio based on the story provided. 
+
+First, I'll break down the information given:
+
+1. Marie had a heart-to-heart with her daughter Elsie. So, Marie is Elsie's mother.
+2. Lizzie called her mother Marie, meaning Lizzie is Marie's daughter. So, Lizzie is another daughter of Marie, making her Elsie's sister.
+3. Shantel's daughter is Paula, who went to law school. Paula's brother is Antonio, who works in a fast food restaurant. So, Antonio is Shantel",184,128,3.3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,4,clutrr:7ee859d3-061a-434f-aa9a-94ef86406666,father,niece,"<think>
+Alright, let's try to figure out the relationship between Pedro and Harold based on the story provided. 
+
+First, I'll break down the information given:
+
+- Tracy is visiting her niece Heather. So Tracy is Heather's aunt because a niece is the daughter of your sibling. That makes Tracy Heather's aunt, which means Heather is Tracy's niece.
+
+- Pedro loves his daughter Heather. So Pedro is Heather's father. Since Heather is Tracy's niece, that makes Pedro Tracy's brother because Tracy is Heather's aunt. So Pedro is Tracy's brother.
+
+- Harold was playing catch with his son Louis. So Harold is Louis's",150,128,3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,4,clutrr:bbbb1dc0-4a05-42af-bdb1-2a695ed68bf6,grandmother,father,"<think>
+Okay, so I need to figure out the relationship between James and Shantel based on the story provided. Let me start by breaking down the information given.
+
+First, the story mentions Jeffrey's father Pedro and his sister Cheryl went to the Bahamas with Cheryl's grandmother, Shantel. So, Cheryl's grandmother is Shantel. That means Cheryl is Shantel's granddaughter.
+
+Now, Pedro is Jeffrey's father, and he has a son named James. So, James is Pedro's son, making him Jeffrey's brother. But the question is about the relationship between James and Shantel.
+
+Since Cheryl is Pedro",148,128,3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,4,clutrr:37d41cd0-7c9a-437e-9ac8-939666751e2c,grandson,son,"<think>
+Alright, let's try to figure out the relationship between Shantel and Kevin based on the story provided. 
+
+First, let's break down the information given:
+
+- Harold has two sons: Antonio and Louis.
+- Shantel is mentioned as going to her son Louis's house.
+- Kevin took his son Antonio out for pizza.
+
+So, Shantel is the mother of Louis because she went to her son's house. Kevin took Antonio, who is Harold's son, out for pizza. Since Antonio is Harold's son and Kevin is taking him out, it's likely that Kevin is related to Harold in some way",158,128,3.1e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,4,clutrr:1545a148-d109-464c-b0ce-27c8cc27f65a,father,mother,"<think>
+Alright, let's try to figure out the relationship between Tracy and Harold. So, from the story, we know that Samuel stays with his grandfather, Harold, every weekend. That means Harold is Samuel's grandfather. 
+
+Next, Samuel's mother is Beverly. So, Beverly is Samuel's mom, which makes her Harold's daughter because Harold is Samuel's grandfather. Now, Robert took his sisters Beverly and Tracy on a hiking trip. So, Robert has two sisters: Beverly and Tracy. That means Tracy is Beverly's sister. 
+
+Since Beverly is Harold's daughter, Tracy, being Beverly's sister, would also be Harold's",146,128,3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,4,clutrr:6df23630-83bb-461d-88c1-8585b19b4f1f,uncle,son,"<think>
+Alright, let's try to figure out the relationship between Michelle and Louis based on the story provided. 
+
+First, I'll break down the information given:
+
+1. Robert took his son Ronald to school because he missed the bus.
+2. Ronald went fishing with his uncle Louis.
+3. Michelle's sister, Angelica, needed help fixing her car.
+4. Angelica's father, Robert, offered to help her.
+
+From point 1, Robert is the father of Ronald. So, Robert is Ronald's dad.
+
+Point 2 says Ronald went fishing with his uncle Louis. Since Robert is Ronald's father, Louis must",155,128,3.1e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,5,clutrr:dc0b42ee-b6fe-4746-86e6-b0fd8a10535a,granddaughter,father,"<think>
+Alright, let's try to figure out the relationship between Jose and Adeline based on the story provided. 
+
+First, let's break down the information step by step. 
+
+Milton invited his father Jose and his brother Samuel for a fishing trip. So, Milton has a father named Jose and a brother named Samuel. That makes Jose Milton's father, and Samuel is Milton's brother, which also makes Samuel Jose's son.
+
+Next, Angela did the laundry with her son Gilbert. So Angela is Gilbert's mother. Then it says Gilbert's sister Adeline never washes clothes. So Adeline is Gilbert's sister, which",159,128,3.1e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,5,clutrr:5131260d-b36f-4009-89f7-1c94e325d132,nephew,daughter,"<think>
+Alright, let's try to figure out the relationship between Guadalupe and Gilbert based on the story provided. 
+
+First, I'll list out all the characters and their relationships as given:
+
+- Guadalupe has a daughter named Margaretta.
+- Milton bought toys for his son Pat and daughter Margaretta. So Milton is the father of Pat and Margaretta.
+- Samuel took his son Gilbert to the park. So Samuel is Gilbert's father.
+- Pat met his uncle Samuel at the baseball game. Since Pat's uncle is Samuel, that means Samuel is related to Pat's family. Since Milton is Pat's father",184,128,3.3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,5,clutrr:22d1de6b-d68a-4288-be3e-9b3e27e98078,uncle,brother,"<think>
+Alright, let's try to figure out the relationship between Charles and William based on the story provided. 
+
+First, let's break down the information given. Richard invited his brother Andrew to a family cookout. Then, Andrew wanted to invite his other brother Charles. So, from this, we can deduce that Richard, Andrew, and Charles are brothers. That makes them all siblings, so they share the same parents.
+
+Next, the story mentions Victoria going to her mother's home with her sibling William and her sons Andrew and Richard. Wait, that's interesting. So Victoria has a sibling named William, and her sons are",148,128,3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,5,clutrr:dfd941c3-aef4-4bfc-8f4f-5bbebdb015d2,father,son,"<think>
+Alright, let's try to figure out the relationship between Richard and Donald based on the story provided. 
+
+First, I'll break down the information given:
+
+1. Donald is proud of his son Charles, who received a scholarship.
+2. Victoria gave birth to a son named Richard.
+3. Andrew's brother Charles wouldn't let him play the Xbox game.
+4. Andrew asked his brother Jeremy for help fixing his car.
+5. Victoria always goes to the park with her son Jeremy on Saturdays.
+
+From this, I can start mapping out the family relationships.
+
+Donald has a son named Charles. So, Donald is Charles' father",178,128,3.3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,5,clutrr:e1bf7afa-9389-48e1-9efb-4dfb2e11e5f7,father,son,"<think>
+Alright, let's try to figure out the relationship between Andrew and Donald based on the story provided. 
+
+First, I'll go through the story step by step to identify all the characters and their relationships.
+
+The story mentions several people:
+
+1. Victoria and her son Charles went to the park.
+2. Donald took his son Richard out for ice cream.
+3. Andrew loved going to the store with his mom Victoria. So, Andrew's mother is Victoria, which makes Andrew the son of Victoria.
+4. Victoria told Charles he was in trouble because Richard (Donald's son) had told her that Charles had been stealing from her",179,128,3.3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,5,clutrr:97d790d0-bb1c-4cce-8611-e48eff90e9bf,uncle,nephew,"<think>
+Alright, let's try to figure out the relationship between Adeline and Milton. So, from the story, Milton took his nephew Gilbert to the football game. That means Gilbert is Milton's nephew. Then, Angela and her son Gilbert went to the park. So Angela is Gilbert's mother. 
+
+Next, Samuel threw a party for his daughters Adeline and Hattie. He also invited Hattie's mother Angela. Wait, so Angela is Hattie's mother, which makes sense because earlier it was said that Angela is Gilbert's mother. So Angela is the mother of both Gilbert and Hattie. 
+
+",174,128,3.2e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,5,clutrr:c27a627c-514d-4591-a62f-30b7955362fa,nephew,brother,"<think>
+Okay, so I need to figure out the relationship between Angela and Charles based on the story provided. Let me read through the story again and pick out the relevant details.
+
+First, Victoria is babysitting her niece, Hattie. So, Hattie is Victoria's niece, which means Hattie's parent is either Victoria's sibling or her spouse's sibling. Then, Andrew and his brother Charles run a turtle farm. So Andrew and Charles are brothers. 
+
+Donald took his son Andrew out for dinner with his wife Victoria for his birthday. So Donald is Andrew's father, and Victoria is Andrew's wife. That",179,128,3.3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,5,clutrr:adf18503-e7a5-49ef-9cdb-f80ef4167ab4,niece,son,"<think>
+Alright, let's try to figure out the relationship between Milton and Thelma. So, from the story, we have several family members mentioned. Let's break it down step by step.
+
+First, Benito meets his mom, Melanie. So Melanie is Benito's mother. Then, William doesn't let his son Henry go to the park alone, so William is Henry's father. Benito is Henry's brother because he offered to go with Henry. So Benito and Henry are brothers, both sons of William and Melanie.
+
+Next, Melanie spent a great day shopping with her daughter Thelma. So Thel",187,128,3.3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,5,clutrr:ffc387c1-ae5f-4f28-909b-45dd38dc30fc,daughter-in-law,husband,"<think>
+Alright, let's try to figure out the relationship between Donald and Mollie based on the story provided. 
+
+First, I'll break down the information given:
+
+- Mollie is enjoying dinner with her husband Jeremy.
+- Richard adored his brother Andrew.
+- Andrew's brother Charles also adored him.
+- Donald's son Richard aced his math class, making his father proud.
+- Charles was happy for his brother Jeremy getting a promotion.
+
+So, let's map out the relationships step by step.
+
+Starting with Donald: He has a son named Richard. So, Donald is Richard's father.
+
+Richard is the son",167,128,3.2e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,5,clutrr:0f014b7a-8f44-4079-9491-84d20bc16ac8,nephew,sister,"<think>
+Okay, so I need to figure out the relationship between Angela and Henry based on the story provided. Let me read through the story again to make sure I understand all the connections.
+
+First, Benito likes to visit his sister Patricia. So Benito and Patricia are siblings. Then, Thelma took her brother Henry and another brother Benito to eat pasta. So Thelma has two brothers: Henry and Benito. That means Henry and Benito are brothers, and both are brothers of Thelma.
+
+Next, William took his daughter Patricia to his sister Angela's house. So William has a daughter named Patricia,",162,128,3.1e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,6,clutrr:78e69cbf-0f3b-48fd-a8ed-3fc2382c9d71,nephew,daughter,"<think>
+Alright, let's try to figure out the relationship between Clifton and Ronald based on the story provided. 
+
+First, I'll list out all the characters and their relationships as given:
+
+- Katherine and her daughter Jon look at stars. So, Katherine is Jon's mother, and Jon is her daughter.
+- Katherine borrows a telescope from her brother Clifton. So, Clifton is Katherine's brother, making him Jon's uncle.
+- Jon bought a puppy for her mother, Katherine. That's consistent with Jon being her daughter.
+- Robert took his son Ronald to the junkyard. So, Robert is Ronald's father",207,128,3.5e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,6,clutrr:76ff4690-db3d-44e9-af0b-752d39aa84d5,nephew,mother,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Ross based on the story provided. 
+
+First, I'll go through the story step by step to identify all the characters and their relationships.
+
+1. Erica loves cooking for her son, Alfredo. So, Erica is the mother of Alfredo.
+2. Alfredo and his brother Ross run a turtle farm. So, Ross is the brother of Alfredo, making them both sons of Erica.
+3. Bonnie and her son Kenneth went to the park. So, Bonnie is the mother of Kenneth.
+4. Warren likes to spend time with his aunt Bonnie,",220,128,3.6e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,6,clutrr:d01f9f0d-c960-4b89-9be8-c1aaa673a963,niece,son,"<think>
+Alright, let's try to figure out the relationship between Clifton and Charlsie based on the story provided. 
+
+First, I'll break down the information given:
+
+- Erica and her sisters, Katherine and Bonnie, are mentioned. So, Erica, Katherine, and Bonnie are sisters.
+- Clifton took his son David to the park. So, Clifton is David's father.
+- Bonnie and her son William went to pick up David from school. Since Bonnie is one of Erica's sisters, she's also Clifton's sister-in-law because she's married to someone, but the story doesn't specify who. However",198,128,3.4e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,6,clutrr:4690a981-9a1b-4f57-94a4-705d6053d5aa,uncle,son,"<think>
+Alright, let's try to figure out the relationship between Arthur and Clifton based on the story provided. 
+
+First, I'll go through the story step by step to identify the family connections.
+
+1. Dorothy's son is Warren, who stayed home with a cold. So Dorothy is the mother of Warren.
+2. Clifton took his nephew Seth to the hockey game. That means Clifton is the uncle of Seth. Since Seth is the nephew, his parent must be Clifton's sibling. But we don't know who Seth's parent is yet.
+3. Lilly went to dinner with her daughter Dorothy. So Lilly is",221,128,3.6e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,6,clutrr:abd37269-e239-4c62-b67f-145fe41731e3,grandson,brother,"<think>
+Alright, let's try to figure out the relationship between Mary and Patrick based on the story provided. 
+
+First, I'll break down the information given:
+
+1. Kenneth is happy for his brother William's promotion.
+2. Clifton is excited to surprise his son William with playoff tickets.
+3. Erica hasn't seen her brother Clifton in over a year and wants to take her son Patrick to meet him.
+4. Bonnie is visiting her mother Mary and asked her son Kenneth to come along.
+
+So, let's map out the relationships step by step.
+
+Starting with Clifton: He is the father of William because he's",193,128,3.4e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,6,clutrr:32014131-f201-4f41-ab86-7c6d728ec044,brother,brother,"<think>
+Alright, let's try to figure out the relationship between Erica and Robert based on the story provided. 
+
+First, I'll go through the story step by step to identify all the characters and their relationships.
+
+1. Ross played chess with his brother Michael. So, Ross and Michael are brothers.
+2. Ross bought a steak dinner for himself and his brother Michael. That confirms their brotherly relationship.
+3. Erica enjoyed a homemade dinner with her son Michael. So, Erica is the mother of Michael.
+4. Joseph was proud of his son Michael, who received a scholarship. Joseph is Michael's father.
+5. Patrick bought",187,128,3.3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,6,clutrr:bee9a22e-378e-40fb-a219-4b6909b1abdc,grandfather,mother,"<think>
+Alright, let's try to figure out the relationship between Arthur and Daniel based on the story provided. 
+
+First, I'll list out all the characters and their relationships as given:
+
+- Dorothy is the mother of Seth and Lilly.
+- Alvin is the father of Seth and Arthur.
+- Daniel is the father of Alvin.
+
+So, Dorothy has two children: Seth and Lilly. Alvin is the father of Seth and Arthur, which makes Alvin the husband of Dorothy. Then, Daniel is the father of Alvin, making Daniel the grandfather of Seth and Arthur.
+
+Now, the question is about the relationship between Arthur and",189,128,3.3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,6,clutrr:beef3a7f-837d-4ef6-87ce-15e8fe351b40,sister,son,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Katherine. So, from the story, we have several family members mentioned. Let me break it down step by step.
+
+First, Katherine attended her sister's son Michael's graduation. So, Michael is the son of Katherine's sister. That makes Michael her nephew.
+
+Then, Mary is David's grandmother and she's prepping for a marathon. Mary is also the grandmother of Michael because she's David's grandmother, and David is presumably related to Michael somehow. Wait, actually, Mary is David's grandmother, so David is Mary's grandson. But Michael is the",188,128,3.3e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,6,clutrr:0b5a5fc0-e7ec-45ac-b197-92e372507411,niece,father,"<think>
+Alright, let's try to figure out the relationship between Katherine and Julie based on the story provided. 
+
+First, I'll break down the information given:
+
+- Clifton's father is David. So, David is Clifton's dad.
+- David took his daughter Julie to the park. So, Julie is David's daughter, making her Clifton's sister.
+- Katherine went to her brother Joseph's birthday party. So, Joseph is Katherine's brother.
+- Bonnie's brother is Joseph, and her husband is Clifton. So, Bonnie is married to Clifton, making her Clifton's wife.
+- Bonnie's son",163,128,3.1e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,clutrr,6,clutrr:50287a6a-b21a-489b-b1ca-b3d74fb100a9,aunt,sister,"<think>
+Alright, let's try to figure out the relationship between Warren and Erica. So, from the story, I know that Lilly invited her brothers Arthur and Warren to her high school graduation. That means Warren is Lilly's brother. 
+
+Then, it mentions Seth's father, Alvin, who's been in prison for five years. Alvin's sister is Erica, and she's the only one visiting him. So, Erica is Alvin's sister, which makes her Seth's aunt because Seth is Alvin's son. 
+
+Now, looking at the relationships, since Warren is Lilly's brother, and Alvin is Seth's",177,128,3.2e-05,2,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,1,proof:548b270057840f05,Unknown,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Harry is smart"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. Charlie is young.
+2. Harry is big.
+3. Cold, nice people are smart.
+4. Nice, kind people are smart.
+5. White, young people are kind.
+6. If someone is young, then they are kind.
+7. Smart, kind people are not nice.
+8. If Charlie is kind, then Charlie is white.
+9. If Charlie",122,128,2.8e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,1,proof:1d6931d6bf87a793,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out if the hypothesis ""The lion eats the dog"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The cow sees the lion.
+2. The cow visits the squirrel.
+3. The dog is red.
+4. The lion is young.
+5. The lion visits the squirrel.
+6. The squirrel visits the cow.
+7. The squirrel visits the dog.
+8. All cold things are nice.
+9. Red things are cold.
+10. If something",187,128,3.3e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,1,proof:6cc2da8ddd31a911,False,UNK,"<think>
+Alright, let's try to figure out whether Gary is kind or not based on the given premises. I'll take it step by step because there's a lot to unpack here.
+
+First, let's list out all the premises to have a clear view:
+
+1. Alan feels blue because the other kids made fun of his round shape.
+2. Bob is nice and green, also cold and blue.
+3. Gary wears a green and red coat but is always cold.
+4. Harry has been blue because he's green with envy.
+5. Round people who are kind and green with envy are young.
+6. A rough person",203,128,3.4e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,1,proof:8bf0b745f303bbda,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog is not green"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The dog is young.
+2. The mouse is round.
+3. The rabbit likes the mouse.
+4. The tiger eats the rabbit.
+5. If something eats the dog and the dog is kind, then the dog is young.
+6. If something is young and it chases the rabbit, then it is green.
+7. If something eats the rabbit",205,128,3.5e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,1,proof:22050cc8d0cf79e1,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bald eagle sees the bald eagle"" is entailed by the given premises. Let me go through this step by step.
+
+First, I'll list out all the premises to have a clear view:
+
+1. The bald eagle is kind.
+2. The bald eagle is rough.
+3. The cat chases the mouse.
+4. The cat is big.
+5. The cat sees the tiger.
+6. The cat visits the tiger.
+7. The mouse is big.
+8. The mouse is nice.
+9. The tiger sees the bald eagle.
+10",167,128,3.2e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,1,proof:a83002d4b03dec2d,False,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Charlie is not smart"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. Bob is big.
+2. Bob is kind.
+3. Bob is nice.
+4. Bob is rough.
+5. Charlie is big.
+6. Charlie is not furry.
+7. Charlie is nice.
+8. Charlie is rough.
+9. Charlie is round.
+10. Gary is round.
+11. Gary is smart.
+12. Harry is round.
+",122,128,2.8e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,1,proof:5fd3d2ac73d84da5,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""The mouse is red"" is entailed by the given premises. Let me break this down step by step.
+
+First, let's list out all the premises:
+
+1. The cat is young.
+2. The mouse sees the cat.
+3. If someone is round, then they see the cat.
+4. If the mouse sees the cat, then the mouse is red.
+5. If someone is young, then they chase the mouse.
+
+And the hypothesis is: The mouse is red.
+
+Alright, let's go through each premise and see how they connect.
+
+Premise",92,128,2.6e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,1,proof:39e0a64b75d21d0e,False,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Alan is not big"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. That rough but kind guy is Alan, the green one.
+2. Eric was born only a few years ago so he is young.
+3. Big Harry is nice but also rough.
+4. Surprisingly, all the kind, green people were also big.
+5. Big and round people can't help but be cold all of the time.
+6. A young round",161,128,3.1e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,1,proof:371d711d320f6362,Unknown,UNK,"<think>
+Okay, so I need to figure out if the hypothesis that Charlie is big is entailed by the given premises. Let me try to break this down step by step.
+
+First, I'll list out all the premises to understand the relationships between the characteristics mentioned.
+
+1. Bob is round, kind, nice, often looks green and blue. They call him rough Dave.
+2. Big Harry is still young, so it's easy for him to be kind.
+3. People who are green, red, and blue are very big.
+4. Nice and kind people who are big in shape are rough.
+5. Nice people are",218,128,3.6e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,1,proof:ab5abb8f18d2899a,False,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Dave is not quiet"" is entailed by the given premises. Let me go through each premise step by step and see what conclusions I can draw.
+
+First, let's list out all the premises:
+
+1. Bob is big.
+2. Bob is not red.
+3. Bob is not white.
+4. Dave is blue.
+5. Dave is red.
+6. Dave is round.
+7. Erin is blue.
+8. Erin is quiet.
+9. Erin is red.
+10. Erin is white.
+11. Red people are blue.
+12.",159,128,3.1e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,2,proof:0de03e2150c1718c,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The tiger does not eat the tiger"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises to have them clear:
+
+1. The bear chases the tiger.
+2. The tiger is round.
+3. If the bear visits the tiger and the tiger chases the bear, then the tiger is young.
+4. If someone is round, then they eat the bear.
+5. If someone chases the tiger, then they chase the bear.
+6.",185,128,3.3e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,2,proof:abf549a96872e12e,True,UNK,"<think>
+Alright, let's try to figure out if Charlie is quiet based on the given premises. I'll go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. Bob is green.
+2. Bob is rough.
+3. Bob is round.
+4. Charlie is not green.
+5. Charlie is rough.
+6. Charlie is round.
+7. Charlie is smart.
+8. Erin is green.
+9. Erin is round.
+10. Erin is smart.
+11. Harry is furry.
+12. Harry is young.
+13. All smart, rough",172,128,3.2e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,2,proof:babd8efbc014636d,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog is not red"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The bear chases the dog.
+2. The bear does not eat the dog.
+3. The bear does not need the dog.
+4. The dog is big.
+5. The dog is not blue.
+6. The dog is not nice.
+7. The dog needs the bear.
+8. If someone needs the bear, then they chase the bear.
+",166,128,3.2e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,2,proof:0a440e32a57616e5,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Anne is round"" is entailed by the given premises. Let me go through each premise step by step and see what conclusions I can draw.
+
+First, let's list out all the premises:
+
+1. Anne is furry.
+2. Anne is white.
+3. Bob is cold.
+4. Bob is furry.
+5. Bob is nice.
+6. Bob is rough.
+7. Bob is round.
+8. Bob is white.
+9. Charlie is cold.
+10. Charlie is furry.
+11. Charlie is nice.
+12. Charlie is rough.
+",164,128,3.1e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,2,proof:4bf72b45d9ccf5a7,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""The bald eagle is blue"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The bald eagle likes the rabbit.
+2. The bald eagle needs the rabbit.
+3. The bear chases the tiger.
+4. The bear is big.
+5. The rabbit is not cold.
+6. The rabbit likes the bear.
+7. The tiger needs the bald eagle.
+8. If someone needs the rabbit, then they are cold.
+9. If",205,128,3.5e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,2,proof:ad9ece92fb5e42e2,Unknown,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Charlie is not green"" is entailed by the given premises. Let me go through each premise step by step and see what information I can gather about Charlie and others.
+
+First, let's list out the premises:
+
+1. To the touch Alan has rough, cold skin.
+2. Big Charlie is still young so it's easy for him to be kind.
+3. Even though he's a big dude, Dave is cold.
+4. That Fred is as round and red as a cherry, and twice as kind.
+5. Someone can be very nice and kind,",211,128,3.5e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,2,proof:f6f4ece183f7557b,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Harry is quiet"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. Gary is rough.
+2. Harry is cold.
+3. Harry is kind.
+4. Quiet things are not nice.
+5. All white, rough things are nice.
+6. If Gary is not cold then Gary is nice.
+7. Kind things are furry.
+8. White things are quiet.
+9. If something is cold then it is white.
+
+And the hypothesis is",103,128,2.7e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,2,proof:6ceb7387a5cdc9ec,False,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Bob is not nice"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. Anne is furry.
+2. Anne is nice.
+3. Anne is smart.
+4. Bob is red.
+5. Erin is furry.
+6. Erin is green.
+7. Erin is young.
+8. If Bob is red, then Bob is smart.
+9. All smart people are nice.
+10. If Bob is nice and Bob is smart, then Bob",105,128,2.7e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,2,proof:3575287dcaa58bca,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The lion does not see the lion"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The cow is cold.
+2. The cow does not see the lion.
+3. The cow sees the mouse.
+4. The dog visits the lion.
+5. The lion is big.
+6. The lion visits the dog.
+7. The mouse visits the dog.
+8. If the dog is rough and the cow does not see the dog,",186,128,3.3e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,2,proof:3755244df094d55e,Unknown,UNK,"<think>
+Alright, let's try to figure out if Gary is red based on the given premises. I'll go through each premise step by step and see how they connect.
+
+First, the premises mention several people: Eric, Fred, Gary, Harry, and some general statements about cold, nice, red, blue, rough, and young people.
+
+Starting with Eric: He's kind and often cold. It's good Fred can remain nice because Eric is cold. So, Eric's coldness is a factor in Fred's niceness.
+
+Gary is described as a round-shaped nice fellow feeling blue and looking green today. So, Gary is",201,128,3.4e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,3,proof:53fac7c7f1cf0eae,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Harry is blue"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. Anne is cold.
+2. Anne is red.
+3. Anne is white.
+4. Charlie is cold.
+5. Charlie is green.
+6. Charlie is red.
+7. Harry is white.
+8. If something is green, then it is blue.
+9. Cold things are green.
+10. If something is white and red, then it is nice.
+1",120,128,2.8e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,3,proof:052f7defef2b2fdb,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cat is not big"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The cat chases the mouse.
+2. The mouse likes the cat.
+3. If someone needs the mouse, then they are kind.
+4. If the mouse needs the cat, then the cat likes the mouse.
+5. If someone chases the cat and the cat is green, then the cat likes the mouse.
+6. If someone chases the",183,128,3.3e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,3,proof:59a14acde73a5ae8,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bear does not eat the bear"" is entailed by the given premises. Let me go through this step by step.
+
+First, I'll list out all the premises to make sure I don't miss anything:
+
+1. The bear chases the mouse.
+2. The bear chases the rabbit.
+3. The bear eats the rabbit.
+4. The bear sees the rabbit.
+5. The cow chases the mouse.
+6. The cow chases the rabbit.
+7. The cow eats the mouse.
+8. The cow is big.
+9. The",251,128,3.8e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,3,proof:498f708e119319dd,True,UNK,"<think>
+Okay, so I'm trying to figure out if the hypothesis ""The cat is blue"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, the premises are:
+
+1. The cat eats the mouse.
+2. The mouse eats the cat.
+3. The mouse eats the squirrel.
+4. The mouse visits the cat.
+5. The mouse visits the squirrel.
+6. The squirrel eats the cat.
+7. The squirrel visits the cat.
+8. If someone eats the squirrel, then they are blue.
+9. If someone eats the squirrel, then they",128,128,2.9e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,3,proof:3d8f5f15b7494d96,False,UNK,"<think>
+Alright, let's try to figure out if Fred is not nice based on the given premises. Okay, so first, I'll list out all the premises to make sure I don't miss anything.
+
+1. Alan wears all blue.
+2. Bob always goes out of his way to show he's kind to people.
+3. Dave wears all blue.
+4. Fred is a big man for his young age, has red hair, and can be rough.
+5. A person described as young and cold, but also rough, is nice.
+6. When you know someone who is young and green, you can count on them",192,128,3.4e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,3,proof:9a34163024165bf0,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis that Gary is rough is entailed by the given premises. Let me try to break this down step by step.
+
+First, let's list out all the premises to make sure I understand them correctly.
+
+1. Alan always goes out of his way to show that he is kind to people.
+2. Eric grew up in a family with six other boys, making him a rough guy.
+3. Right now, Eric is feeling blue because his dog is sick.
+4. Gary is red. He is also kind and yet cold.
+5. Red Harry is what folks call him",169,128,3.2e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,3,proof:8476d9ff24da10ae,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cat does not chase the lion"" is entailed by the given premises. Let me go through this step by step.
+
+First, I'll list out all the premises to have a clear view:
+
+1. The cat chases the tiger.
+2. The cat eats the tiger.
+3. The cat is big.
+4. The lion chases the cat.
+5. The lion chases the tiger.
+6. The lion eats the tiger.
+7. The lion is red.
+8. The lion is young.
+9. The rabbit chases the cat.
+",223,128,3.6e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,3,proof:b91cb81eabe83273,Unknown,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Erin is quiet"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. Bob is quiet.
+2. Bob is smart.
+3. Charlie is kind.
+4. Charlie is smart.
+5. Charlie is white.
+6. Erin is blue.
+7. Harry is green.
+8. White, green things are smart.
+9. Smart, quiet things are white.
+10. All quiet, kind things are white.
+11. If Erin",136,128,2.9e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,3,proof:ad9c89710cdedfd6,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cat does not chase the mouse"" is entailed by the given premises. Let me go through this step by step.
+
+First, I'll list out all the premises to have a clear view:
+
+1. The cat chases the cow.
+2. The cat eats the cow.
+3. The cat eats the mouse.
+4. The cat is big.
+5. The cat needs the cow.
+6. The cow eats the cat.
+7. The cow eats the mouse.
+8. The cow is green.
+9. The mouse chases the cow.
+1",199,128,3.4e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,3,proof:317a840fa94c77f8,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis that Anne is white is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, the premises:
+
+1. Anne is round.
+2. Bob is round.
+3. Charlie is red.
+4. Fiona is red.
+5. All round people are furry.
+6. If someone is round and furry, then they are not red.
+7. Furry people are not red.
+8. If someone is round and not red, then they are white.
+9. If someone is white and red, then they are",124,128,2.9e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,4,proof:31a75fb97e92b594,True,UNK,"<think>
+Alright, let's try to figure out if Dave is big based on the given premises. I'll go through each premise one by one and see what information I can gather about Dave and others.
+
+First, the premises mention several people: Alan, Dave, Eric, and Harry. Each has certain attributes like being big, blue, sad, nice, young, round, cold, red, rough, kind, and green. My goal is to determine if Dave is big.
+
+Let's list out the premises:
+
+1. Alan is big, often blue and sad, but he's nice.
+2. Dave is still young, which",210,128,3.5e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,4,proof:87bd99e611345592,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cow does not need the tiger"" is entailed by the given premises. Let me go through this step by step.
+
+First, I'll list out all the premises to have a clear view:
+
+1. The cow eats the mouse.
+2. The cow is cold.
+3. The cow needs the mouse.
+4. The mouse eats the tiger.
+5. The mouse needs the tiger.
+6. The mouse sees the tiger.
+7. The rabbit eats the mouse.
+8. The rabbit is cold.
+9. The rabbit needs the cow.
+10.",190,128,3.3e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,4,proof:ee5ab8e4ab0724e9,True,UNK,"<think>
+Okay, so I need to figure out if Charlie is big based on the given premises. Let me start by listing out all the premises to make sure I don't miss anything.
+
+First, the premises are:
+
+1. Charlie is rough.
+2. Dave is big.
+3. Dave is green.
+4. Dave is smart.
+5. Fiona is big.
+6. Fiona is green.
+7. Fiona is kind.
+8. Fiona is rough.
+9. Fiona is white.
+10. Harry is red.
+11. Harry is white.
+12. If something is rough, then it is green.
+13.",176,128,3.2e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,4,proof:a58835fc92a5ce0a,True,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The rabbit sees the bald eagle"" is entailed by the given premises. Let me go through each premise step by step and see if I can find a logical path that leads to the conclusion that the rabbit sees the bald eagle.
+
+First, let me list out all the premises to have a clear view:
+
+1. The bald eagle eats the cow.
+2. The bald eagle is young.
+3. The bald eagle needs the cat.
+4. The bald eagle sees the rabbit.
+5. The cat eats the cow.
+6. The cat eats the rabbit.
+7",255,128,3.8e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,4,proof:7fd0c763cec2c99f,True,UNK,"<think>
+Okay, so I'm trying to figure out if the hypothesis ""The dog chases the cat"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises to have a clear view:
+
+1. The bald eagle chases the cat.
+2. The bald eagle eats the dog.
+3. The bald eagle is blue.
+4. The bear chases the bald eagle.
+5. The bear eats the cat.
+6. The cat chases the bear.
+7. The cat is kind.
+8. The cat visits the dog",268,128,3.9e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,4,proof:67ffe05d9bdfe873,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog is not cold"" is entailed by the given premises. Let me go through this step by step.
+
+First, I'll list out all the premises to have a clear view:
+
+1. The bald eagle chases the dog.
+2. The bald eagle eats the cow.
+3. The bald eagle is blue.
+4. The bald eagle visits the cow.
+5. The bald eagle visits the dog.
+6. The cow chases the bald eagle.
+7. The dog chases the bald eagle.
+8. The dog chases the cow.
+9",237,128,3.7e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,4,proof:b85784eb09b7c363,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cow does not visit the bear"" is entailed by the given premises. Let me go through this step by step.
+
+First, I'll list out all the premises to have a clear view:
+
+1. The bear eats the dog.
+2. The bear is green.
+3. The cow eats the bear.
+4. The cow eats the dog.
+5. The cow is green.
+6. The cow is nice.
+7. The cow likes the dog.
+8. The cow visits the dog.
+9. The dog eats the cow.
+10. The",261,128,3.9e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,4,proof:85a8292316281d9a,True,UNK,"<think>
+Okay, so I'm trying to figure out if the hypothesis ""The dog needs the cow"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The cat chases the lion.
+2. The cat is rough.
+3. The cat needs the dog.
+4. The cow is cold.
+5. The cow needs the dog.
+6. The cow visits the dog.
+7. The dog is rough.
+8. The dog is young.
+9. The lion chases the cow.
+10. The",222,128,3.6e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,4,proof:25c399b5bc9e019e,Unknown,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Dave is red"" is entailed by the given premises. Let me go through each premise step by step and see what information I can extract.
+
+First, the premises mention Charlie is green and cold. Then, it says the young person who is always feeling cold is named Dave. So, Dave is young and cold. Next, Fred is still young, which explains why he is round and cold, but most people think Fred is nice. So Fred is young, round, cold, and nice.
+
+Then, it says young people who are cold to others and green with",188,128,3.3e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,4,proof:7828d8e4948c833d,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The tiger does not see the bear"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The bald eagle is blue.
+2. The bald eagle is kind.
+3. The bear chases the bald eagle.
+4. The bear sees the bald eagle.
+5. The cat likes the bald eagle.
+6. The tiger is big.
+7. The tiger does not see the cat.
+8. If someone likes the cat and the cat ch",221,128,3.6e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,5,proof:34f03b7f18c766d4,True,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The lion visits the squirrel"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises to have a clear view:
+
+1. The bear does not chase the mouse.
+2. The bear chases the squirrel.
+3. The bear is cold.
+4. The bear is green.
+5. The bear is kind.
+6. The bear is round.
+7. The bear needs the squirrel.
+8. The bear visits the mouse.
+9. The bear visits the",248,128,3.8e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,5,proof:078290908350c8ee,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The mouse does not need the mouse"" is entailed by the given premises. Let me go through each premise step by step and see if I can derive any conclusions that might help me determine the truth of the hypothesis.
+
+First, let me list out all the premises to have a clear view:
+
+1. The mouse chases the tiger.
+2. The mouse is cold.
+3. The rabbit chases the squirrel.
+4. The rabbit is nice.
+5. The rabbit needs the mouse.
+6. The rabbit needs the tiger.
+7. The rabbit visits the",263,128,3.9e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,5,proof:ae56255eed498b82,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""The rabbit is not green"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The lion chases the squirrel.
+2. The lion chases the tiger.
+3. The lion eats the squirrel.
+4. The lion is blue.
+5. The lion is nice.
+6. The lion is red.
+7. The rabbit chases the lion.
+8. The rabbit does not eat the squirrel.
+9. The rabbit is young.
+10",234,128,3.7e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,5,proof:f38424329a4dfc56,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bear does not visit the bear"" is entailed by the given premises. Let me go through each premise step by step and see what conclusions I can draw.
+
+First, let's list out all the premises to have a clear view:
+
+1. The bald eagle likes the squirrel.
+2. The bald eagle likes the tiger.
+3. The bald eagle visits the tiger.
+4. The bear likes the squirrel.
+5. The bear needs the tiger.
+6. The squirrel is nice.
+7. The squirrel is young.
+8. The squirrel likes the tiger.
+",230,128,3.6e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,5,proof:213fe4dcb49d8254,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bear does not chase the rabbit"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The bear is blue.
+2. The bear is young.
+3. The cow chases the mouse.
+4. The cow eats the mouse.
+5. The cow does not visit the rabbit.
+6. The mouse is not round.
+7. The rabbit chases the bear.
+8. If something is young and blue, then it visits the mouse",214,128,3.5e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,5,proof:24af1aafb3a172a4,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The squirrel does not like the lion"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The bear chases the cat.
+2. The bear eats the cat.
+3. The cat likes the squirrel.
+4. The lion eats the cat.
+5. The lion eats the squirrel.
+6. The lion likes the cat.
+7. The squirrel is not blue.
+8. If someone is big, then they like the squirrel.
+9.",180,128,3.3e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,5,proof:8e2b2a4a677148bd,True,UNK,"<think>
+Alright, let's try to figure out if Dave is red based on the given premises. I'll go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. Charlie is big.
+2. Charlie is green.
+3. Charlie is nice.
+4. Charlie is not quiet.
+5. Dave is big.
+6. Dave is quiet.
+7. Fiona is not rough.
+8. Gary is big.
+9. Gary is green.
+10. Gary is nice.
+11. Gary is rough.
+12. If someone is quiet and rough, then they are",176,128,3.2e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,5,proof:8079d11728bc6f96,False,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Gary is not rough"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. Bob is cold.
+2. Bob is rough.
+3. Bob is smart.
+4. Dave is kind.
+5. Dave is white.
+6. Erin is big.
+7. Gary is big.
+8. Blue, cold people are rough.
+9. Kind people are cold.
+10. Smart people are kind.
+11. If someone is cold and kind,",119,128,2.8e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,5,proof:4421d9d36798017f,True,UNK,"<think>
+Okay, so I need to figure out if Fiona is green based on the given premises. Let me start by listing out all the premises and see how they connect.
+
+First, let's list all the information about each person:
+
+- Erin: furry, red, young
+- Fiona: big, young
+- Gary: furry, red, round
+- Harry: cold, round, young
+
+Now, the premises are a set of rules. Let me go through each rule one by one and see how they apply.
+
+1. If someone is big, then they are young. So, Fiona is big, so she must be",156,128,3.1e-05,1,128,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,dcab,proofwriter,5,proof:ed3a0b8b1720e935,True,UNK,"<think>
+Alright, let's try to figure out if Harry is kind based on the given premises. I'll go through each premise step by step and see how they connect.
+
+First, the premises mention several people: Alan, Gary, and Harry. Each has certain attributes. Let's list out what each person is described as.
+
+1. Alan is kind, nice, and looks green.
+2. Gary is nice.
+3. Harry is young, rough, nice, and big.
+
+Now, the other premises are more general statements about people with certain attributes. Let's break those down:
+
+- If someone is kind yet can be cold and",179,128,3.3e-05,1,128,,

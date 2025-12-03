@@ -1,0 +1,599 @@
+model_key,provider,model,mode,dataset,depth,id,gold,pred,raw,prompt_tokens,completion_tokens,est_cost_usd,d_hat,b_hat,budget,changed_by_verify
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,2,clutrr:d4ff2c69-eaa9-4ba0-9f9f-33579afd323f,brother,son,"<think>
+Okay, so I need to figure out the relationship between Nicholas and George based on the story provided. Let me read the story again carefully. It says that Ashley's son Nicholas and son George went to the park together to play. Hmm, so Ashley has two sons: Nicholas and George. That means both of",114,64,1.8e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,2,clutrr:2896c293-fe1c-4554-8faa-43d0933a84d0,grandmother,grandmother,"<think>
+Okay, so I need to figure out the relationship between Natalia and Ashley based on the story provided. Let me read through the story again to make sure I understand all the details.
+
+The story says that Jennifer always loved when her grandmother Ashley visited because she always got presents. Then, Natalia was talking about",128,64,1.9e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,2,clutrr:283a113d-0f2f-4ebe-977c-44fbb9345fe7,grandfather,brother,"<think>
+Okay, so I need to figure out the relationship between Lorraine and Clarence based on the story provided. Let me break it down step by step.
+
+First, the story says that Lorraine was on the phone with her brother Jeff. So, Lorraine is Jeff's sister. That part is clear.
+
+Then",121,64,1.9e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,2,clutrr:de37ad3e-820e-4c58-a246-2babf1e83096,granddaughter,daughter,"<think>
+Alright, let's try to figure out the relationship between Ashley and April based on the given story. So, the story says that George is taking his daughter April out for lunch. Then it mentions that Ashley's son, George, recently started a pawn shop. 
+
+Wait, so Ashley has a son named George",125,64,1.9e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,2,clutrr:1f13bb75-6c38-42eb-a193-cd7f3433b3e1,sister,daughter,"<think>
+Okay, so I need to figure out the relationship between Theresa and Lillian based on the story provided. Let me read through the story again to make sure I understand all the details.
+
+Theresa comes home from work and finds her daughter Jesse asleep on the couch. Jesse's older brother, Nicolas, is doing",147,64,2.1e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,2,clutrr:5a332849-b5f8-44c6-8140-77d31c127d24,daughter,UNK,"<think>
+Okay, so I need to figure out the relationship between Lillian and Andrea based on the story provided. Let me read through the story again to make sure I understand all the details.
+
+The story says that George's wife, Lillian, was injured while working out. Thankfully, Andrea, George's daughter,",127,64,1.9e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,2,clutrr:0dd9e857-dfe2-454c-b127-9259184ee3f5,mother-in-law,daughter,"<think>
+Alright, let's try to figure out the relationship between Douglas and Lillian based on the story provided. 
+
+First, the story mentions that Lillian and her daughter April went shopping together last Monday. They bought new shoes for Lillian's kids. So, Lillian has children, and April is her daughter",130,64,1.9e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,2,clutrr:974a2a9a-6206-43cc-8096-7e8de1bf2561,father,brother,"<think>
+Okay, so I need to figure out the relationship between Kevin and Wayne based on the story provided. Let me read through the story again to make sure I understand all the details.
+
+Heidi and her brother Kevin went to the movies together. Heidi needed to ask her father Wayne for a loan. So, Heidi",124,64,1.9e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,2,clutrr:4ec92c57-502b-4798-b150-1cedfd1f0f86,granddaughter,daughter,"<think>
+Okay, so I need to figure out the relationship between Clarence and Louise based on the story provided. Let me break it down step by step.
+
+First, the story says that Clarence took his daughter Nancy to the father-daughter dance at church. So, Clarence is Nancy's father. That makes sense because it",132,64,1.9e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,2,clutrr:81b2b81c-5a95-43b2-8fac-e34b1662f8ad,daughter,son,"<think>
+Okay, so I need to figure out the relationship between Nancy and Linda based on the story provided. Let me read through the story again to make sure I understand all the details.
+
+The story says that Nancy's son Robert is running for class president, and Robert's sister Linda is helping make signs. So,",120,64,1.9e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,3,clutrr:24f02008-e43a-480b-814f-3c5bca945980,daughter,wife,"<think>
+Alright, let's try to figure out the relationship between Lena and Pamela. So, from the story, we have a few characters: Wesley, Martha, Lena, and Pamela. 
+
+First, Wesley is Martha's dad because it says they spent Father's Day together. Then, Lena is Wesley's wife because",187,64,2.4e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,3,clutrr:0634c05e-fc36-4f1b-85f5-ca0b3ce34990,father,brother,"<think>
+Alright, let's try to figure out the relationship between Francisco and James based on the story provided. 
+
+First, the story mentions Francisco needing his brother Wesley's help. So, Francisco and Wesley are brothers. Then, it says that Wesley was happy his son Chris is doing well in college. So Wesley is",150,64,2.1e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,3,clutrr:95ad1142-342c-4f3e-9046-3e00fd3d6802,granddaughter,mother,"<think>
+Alright, let's try to figure out the relationship between James and Mildred based on the story provided. 
+
+First, I'll break down the information given:
+
+1. Pamela is celebrating her birthday with her mother Lena. So, Lena is Pamela's mother.
+2. James's daughter Kelly had a child (",170,64,2.2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,3,clutrr:4190c92c-9e29-45c0-9250-e1125f3df179,mother-in-law,daughter,"<think>
+Alright, let's try to figure out the relationship between Clarence and Lynn based on the story provided. 
+
+First, I'll break down the information given:
+
+1. Lynn took her daughter Felicia to see her first ballet performance. So, Lynn is Felicia's mother.
+2. Juanita is taking a",144,64,2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,3,clutrr:020994c1-b7dd-4e45-9d2f-792daf27be96,uncle,mother,"<think>
+Okay, let's try to figure out the relationship between Gloria and Joshua. So, the story says that Gloria loves her mother, David. Wait, that's a bit confusing because usually, a mother is female, but David is a male name. Maybe it's a typo, but I'll go with it",141,64,2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,3,clutrr:80f5d8b9-80e0-432d-b9ad-7154cff8d7a7,brother,niece,"<think>
+Okay, so I need to figure out the relationship between David and Francisco based on the story provided. Let me read through the story again to make sure I understand all the details.
+
+Francisco is picking up his niece Dolores from school because her parents are working. Dolores was looking at her mother Lynn closely",150,64,2.1e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,3,clutrr:ae01053c-f4ab-4235-8321-669b6bba29b5,nephew,father,"<think>
+Alright, let's try to figure out the relationship between David and Leonard based on the story provided. 
+
+First, I'll break down the information given. The story mentions several characters: Pete, his father Francisco, Leonard, and David. 
+
+Leonard and Pete went to the arcade, so they're brothers",144,64,2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,3,clutrr:2650e85e-bed0-47af-8c60-fdf438778a08,granddaughter,grandson,"<think>
+Alright, let's try to figure out the relationship between James and Tina based on the story provided. 
+
+First, the story mentions James having a grandson named Chris who went to college at James's alma mater. So, James is the grandfather of Chris. Then, Chris graduated with honors, and Theodore invited his",144,64,2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,3,clutrr:74ee1d21-2079-4819-9a2c-5bb8ad31b1a4,niece,brother,"<think>
+Okay, so I need to figure out the relationship between Lynn and Carrie based on the story provided. Let me break it down step by step.
+
+First, the story says that Lynn went to the park with her brother Hugh. So, Lynn and Hugh are siblings. Then, it mentions that Hugh's brother Francisco",145,64,2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,3,clutrr:2994ec28-f071-4b22-b34a-d6a6ad760120,niece,daughter,"<think>
+Okay, so I need to figure out the relationship between Cindy and Martha based on the story provided. Let me read through the story again to make sure I understand all the details.
+
+The story says that Cindy's daughter is Carrie, who just graduated high school. Lena is teaching her niece, Carrie, how to",145,64,2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,4,clutrr:cee2db10-8a67-4cae-a3b7-02ef3ba79f9f,grandfather,father,"<think>
+Alright, let's try to figure out the relationship between Nicole and Harold based on the story provided. 
+
+First, I'll break down the information given. Nicole misses her father, Louis, when she's at school. So, Nicole's father is Louis. Then, Michael's grandfather is Harold, who is",147,64,2.1e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,4,clutrr:6b7720df-f16a-4fa6-81dd-b8668bc506cc,nephew,UNK,"<think>
+Okay, so I need to figure out the relationship between Antonio and Allan based on the story provided. Let me read through the story again to make sure I understand all the details.
+
+The story mentions several people: Bobby, Shantel, Allan, Robert, and Antonio. Let's break down the relationships step",160,64,2.2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,4,clutrr:afdfb0cd-5ef5-410c-a881-508ebe773ca6,mother-in-law,UNK,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Shantel based on the story provided. 
+
+First, I'll break down the information given step by step. Dorothy and Pedro are married, celebrating their 20th anniversary. Louis is Pedro's brother, so that makes Louis Dorothy's",194,64,2.4e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,4,clutrr:50f2eec6-a5e0-459b-9e39-8137da6f1150,brother,son,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Robert based on the story provided. 
+
+First, I'll break down the story step by step to understand the family connections.
+
+1. Harold made a sandwich for his son Louis. So, Harold is the father of Louis.
+2. Louis's",145,64,2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,4,clutrr:d0c3d5dc-7e3a-43fb-b97e-aeca5709cf90,uncle,daughter,"<think>
+Alright, let's try to figure out the relationship between Lizzie and Antonio based on the story provided. 
+
+First, I'll break down the information given:
+
+1. Marie had a heart-to-heart with her daughter Elsie. So, Marie is Elsie's mother.
+2. Lizzie called her mother",184,64,2.3e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,4,clutrr:7ee859d3-061a-434f-aa9a-94ef86406666,father,niece,"<think>
+Alright, let's try to figure out the relationship between Pedro and Harold based on the story provided. 
+
+First, I'll break down the information given:
+
+- Tracy is visiting her niece Heather. So Tracy is Heather's aunt because a niece is the daughter of your sibling. That makes Tracy Heather's aunt,",150,64,2.1e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,4,clutrr:bbbb1dc0-4a05-42af-bdb1-2a695ed68bf6,grandmother,father,"<think>
+Okay, so I need to figure out the relationship between James and Shantel based on the story provided. Let me start by breaking down the information given.
+
+First, the story mentions Jeffrey's father Pedro and his sister Cheryl went to the Bahamas with Cheryl's grandmother, Shantel. So, Cheryl's",148,64,2.1e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,4,clutrr:37d41cd0-7c9a-437e-9ac8-939666751e2c,grandson,son,"<think>
+Alright, let's try to figure out the relationship between Shantel and Kevin based on the story provided. 
+
+First, let's break down the information given:
+
+- Harold has two sons: Antonio and Louis.
+- Shantel is mentioned as going to her son Louis's house.
+- Kevin took his",158,64,2.1e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,4,clutrr:1545a148-d109-464c-b0ce-27c8cc27f65a,father,mother,"<think>
+Alright, let's try to figure out the relationship between Tracy and Harold. So, from the story, we know that Samuel stays with his grandfather, Harold, every weekend. That means Harold is Samuel's grandfather. 
+
+Next, Samuel's mother is Beverly. So, Beverly is Samuel's mom, which makes",146,64,2.1e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,4,clutrr:6df23630-83bb-461d-88c1-8585b19b4f1f,uncle,son,"<think>
+Alright, let's try to figure out the relationship between Michelle and Louis based on the story provided. 
+
+First, I'll break down the information given:
+
+1. Robert took his son Ronald to school because he missed the bus.
+2. Ronald went fishing with his uncle Louis.
+3. Michelle's sister,",155,64,2.1e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,5,clutrr:dc0b42ee-b6fe-4746-86e6-b0fd8a10535a,granddaughter,father,"<think>
+Alright, let's try to figure out the relationship between Jose and Adeline based on the story provided. 
+
+First, I'll break down the information given step by step.
+
+1. Milton invited his father Jose and his brother Samuel to go on a fishing trip. So, Milton has a father named Jose and",159,64,2.2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,5,clutrr:5131260d-b36f-4009-89f7-1c94e325d132,nephew,mother,"<think>
+Alright, let's try to figure out the relationship between Guadalupe and Gilbert. So, from the story, Guadalupe is the mother of Margaretta. Milton bought toys for his son Pat and daughter Margaretta, so Milton is the father of both Pat and Margaretta. That makes Gu",184,64,2.3e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,5,clutrr:22d1de6b-d68a-4288-be3e-9b3e27e98078,uncle,brother,"<think>
+Alright, let's try to figure out the relationship between Charles and William based on the story provided. 
+
+First, let's break down the information given. Richard invited his brother Andrew to a family cookout. Then, Andrew wanted to invite his other brother Charles. So, from this, we can deduce",148,64,2.1e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,5,clutrr:dfd941c3-aef4-4bfc-8f4f-5bbebdb015d2,father,son,"<think>
+Alright, let's try to figure out the relationship between Richard and Donald based on the story provided. 
+
+First, I'll break down the information given:
+
+1. Donald is proud of his son Charles, who received a scholarship.
+2. Victoria gave birth to a son named Richard.
+3. Andrew's brother",178,64,2.3e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,5,clutrr:e1bf7afa-9389-48e1-9efb-4dfb2e11e5f7,father,son,"<think>
+Alright, let's try to figure out the relationship between Andrew and Donald based on the story provided. 
+
+First, I'll go through the story step by step to identify all the characters and their relationships.
+
+The story mentions several people:
+
+1. Victoria and her son Charles went to the park.
+2. Donald",179,64,2.3e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,5,clutrr:97d790d0-bb1c-4cce-8611-e48eff90e9bf,uncle,nephew,"<think>
+Alright, let's try to figure out the relationship between Adeline and Milton. So, from the story, Milton took his nephew Gilbert to the football game. That means Gilbert is Milton's nephew. Then, Angela and her son Gilbert went to the park, so Angela is Gilbert's mother. 
+
+Next,",174,64,2.3e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,5,clutrr:c27a627c-514d-4591-a62f-30b7955362fa,nephew,UNK,"<think>
+Okay, so I need to figure out the relationship between Angela and Charles based on the story provided. Let me read through the story again to make sure I get all the details right.
+
+First, Victoria is babysitting her niece, Hattie. So, Hattie is Victoria's niece. That means",179,64,2.3e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,5,clutrr:adf18503-e7a5-49ef-9cdb-f80ef4167ab4,niece,son,"<think>
+Alright, let's try to figure out the relationship between Milton and Thelma based on the story provided. 
+
+First, I'll break down the information given:
+
+- Benito meets with his mom, Melanie, for dinner. So, Melanie is Benito's mother.
+- William wouldn't let his son",187,64,2.4e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,5,clutrr:ffc387c1-ae5f-4f28-909b-45dd38dc30fc,daughter-in-law,husband,"<think>
+Alright, let's try to figure out the relationship between Donald and Mollie based on the story provided. 
+
+First, I'll break down the information given step by step.
+
+1. Mollie is enjoying dinner with her husband Jeremy. So, Mollie is married to Jeremy.
+
+2. Richard",167,64,2.2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,5,clutrr:0f014b7a-8f44-4079-9491-84d20bc16ac8,nephew,sister,"<think>
+Okay, so I need to figure out the relationship between Angela and Henry based on the story provided. Let me read through the story again to make sure I understand all the connections.
+
+First, Benito likes to visit his sister Patricia. So Benito and Patricia are siblings. Then, Thelma took her",162,64,2.2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,6,clutrr:78e69cbf-0f3b-48fd-a8ed-3fc2382c9d71,nephew,daughter,"<think>
+Alright, let's try to figure out the relationship between Clifton and Ronald based on the story provided. 
+
+First, I'll list out all the characters and their relationships as given:
+
+- Katherine and her daughter Jon look at stars. So, Katherine is Jon's mother, and Jon is her daughter.
+-",207,64,2.5e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,6,clutrr:76ff4690-db3d-44e9-af0b-752d39aa84d5,nephew,mother,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Ross based on the story provided. 
+
+First, I'll go through the story step by step to identify all the family connections.
+
+1. Erica loves cooking for her son, Alfredo. So, Erica is the mother of Alfredo.
+2",220,64,2.6e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,6,clutrr:d01f9f0d-c960-4b89-9be8-c1aaa673a963,niece,UNK,"<think>
+Alright, let's try to figure out the relationship between Clifton and Charlsie based on the story provided. 
+
+First, I'll break down the information given:
+
+- Erica and her sisters, Katherine and Bonnie, are mentioned. So, Erica, Katherine, and Bonnie are sisters.
+- Clifton took",198,64,2.4e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,6,clutrr:4690a981-9a1b-4f57-94a4-705d6053d5aa,uncle,son,"<think>
+Alright, let's try to figure out the relationship between Arthur and Clifton based on the story provided. 
+
+First, I'll go through the story step by step to identify all the family members and their relationships.
+
+1. Dorothy's son is Warren. So, Dorothy is the mother of Warren.
+2.",221,64,2.6e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,6,clutrr:abd37269-e239-4c62-b67f-145fe41731e3,grandson,brother,"<think>
+Alright, let's try to figure out the relationship between Mary and Patrick based on the story provided. 
+
+First, I'll break down the information given:
+
+1. Kenneth is happy for his brother William getting a promotion.
+2. Clifton is excited to surprise his son William with playoff tickets.
+3. Erica",193,64,2.4e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,6,clutrr:32014131-f201-4f41-ab86-7c6d728ec044,brother,brother,"<think>
+Alright, let's try to figure out the relationship between Erica and Robert based on the story provided. 
+
+First, I'll break down the information given step by step. 
+
+The story mentions several people and their relationships:
+
+1. Ross played chess with his brother Michael. So, Ross and Michael are brothers.
+",187,64,2.4e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,6,clutrr:bee9a22e-378e-40fb-a219-4b6909b1abdc,grandfather,mother,"<think>
+Alright, let's try to figure out the relationship between Arthur and Daniel based on the story provided. 
+
+First, I'll list out all the characters and their relationships as given:
+
+- Dorothy is the mother of Seth and Lilly. So, Dorothy is the mother, and Seth and Lilly are her children.
+-",189,64,2.4e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,6,clutrr:beef3a7f-837d-4ef6-87ce-15e8fe351b40,sister,son,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Katherine. So, the story mentions several people and their relationships. Let me break it down step by step.
+
+First, Katherine attended her sister's son Michael's graduation. So, Michael is the son of Katherine's sister. That makes Michael her",188,64,2.4e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,6,clutrr:0b5a5fc0-e7ec-45ac-b197-92e372507411,niece,father,"<think>
+Alright, let's try to figure out the relationship between Katherine and Julie based on the story provided. 
+
+First, I'll break down the information given:
+
+- Clifton's father is David. So, David is Clifton's dad.
+- David took his daughter Julie to the park. So, Julie is",163,64,2.2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,clutrr,6,clutrr:50287a6a-b21a-489b-b1ca-b3d74fb100a9,aunt,UNK,"<think>
+Alright, let's try to figure out the relationship between Warren and Erica. So, from the story, I know that Lilly invited her brothers Arthur and Warren to her high school graduation. That means Warren is Lilly's brother. 
+
+Then, it mentions Seth's father, Alvin, who's been in prison",177,64,2.3e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,1,proof:548b270057840f05,Unknown,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Harry is smart"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. Charlie is young.
+2. Harry is big.
+3",122,64,1.9e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,1,proof:1d6931d6bf87a793,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out if the hypothesis ""The lion eats the dog"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The cow sees the lion.
+2.",187,64,2.4e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,1,proof:6cc2da8ddd31a911,False,UNK,"<think>
+Alright, let's try to figure out whether Gary is kind or not based on the given premises. I'll take it step by step because there's a lot to unpack here.
+
+First, let's list out all the premises to have a clear view:
+
+1. Alan feels blue because the other kids made fun",203,64,2.5e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,1,proof:8bf0b745f303bbda,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog is not green"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The dog is young.
+2. The",205,64,2.5e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,1,proof:22050cc8d0cf79e1,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bald eagle sees the bald eagle"" is entailed by the given premises. Let me go through this step by step.
+
+First, I'll list out all the premises to have a clear view:
+
+1. The bald eagle is kind.
+2",167,64,2.2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,1,proof:a83002d4b03dec2d,False,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Charlie is not smart"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. Bob is big.
+2. Bob is kind.
+",122,64,1.9e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,1,proof:5fd3d2ac73d84da5,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""The mouse is red"" is entailed by the given premises. Let me break this down step by step.
+
+First, let's list out all the premises:
+
+1. The cat is young.
+2. The mouse sees the cat.
+3. If",92,64,1.7e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,1,proof:39e0a64b75d21d0e,False,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Alan is not big"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. That rough but kind guy is Alan, the green",161,64,2.2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,1,proof:371d711d320f6362,Unknown,UNK,"<think>
+Okay, so I need to figure out if the hypothesis that Charlie is big is entailed by the given premises. Let me go through each premise step by step and see what information I can extract.
+
+First, the premises mention Bob being a round fellow, kind, and nice. He often looks green and blue",218,64,2.6e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,1,proof:ab5abb8f18d2899a,False,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Dave is not quiet"" is entailed by the given premises. Let me go through each premise step by step and see what conclusions I can draw.
+
+First, let's list out all the premises:
+
+1. Bob is big.
+2. Bob is",159,64,2.2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,2,proof:0de03e2150c1718c,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The tiger does not eat the tiger"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The bear chases the tiger",185,64,2.3e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,2,proof:abf549a96872e12e,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis that Charlie is quiet is entailed by the given premises. Let me go through each premise step by step and see what conclusions I can draw.
+
+First, let's list out all the premises:
+
+1. Bob is green.
+2. Bob is rough.
+",172,64,2.2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,2,proof:babd8efbc014636d,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog is not red"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The bear chases the dog.
+2",166,64,2.2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,2,proof:0a440e32a57616e5,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Anne is round"" is entailed by the given premises. Let me go through each premise step by step and see what conclusions I can draw.
+
+First, let's list out all the premises:
+
+1. Anne is furry.
+2. Anne is white",164,64,2.2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,2,proof:4bf72b45d9ccf5a7,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""The bald eagle is blue"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The bald eagle likes the rabbit.
+2.",205,64,2.5e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,2,proof:ad9ece92fb5e42e2,Unknown,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Charlie is not green"" is entailed by the given premises. Let me go through each premise step by step and see what information I can gather about Charlie and others.
+
+First, let's list out the premises:
+
+1. To the touch Alan has",211,64,2.5e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,2,proof:f6f4ece183f7557b,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Harry is quiet"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. Gary is rough.
+2. Harry is cold.
+3",103,64,1.7e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,2,proof:6ceb7387a5cdc9ec,False,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Bob is not nice"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. Anne is furry.
+2. Anne is nice.
+",105,64,1.7e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,2,proof:3575287dcaa58bca,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The lion does not see the lion"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The cow is cold.
+2",186,64,2.4e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,2,proof:3755244df094d55e,Unknown,UNK,"<think>
+Alright, let's try to figure out if Gary is red based on the given premises. I'll go through each premise step by step and see how they connect.
+
+First, the premises mention several people: Eric, Fred, Gary, Harry, and some general statements about cold, nice, red, blue,",201,64,2.5e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,3,proof:53fac7c7f1cf0eae,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Harry is blue"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. Anne is cold.
+2. Anne is red.
+3",120,64,1.9e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,3,proof:052f7defef2b2fdb,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cat is not big"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The cat chases the mouse.
+2",183,64,2.3e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,3,proof:59a14acde73a5ae8,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bear does not eat the bear"" is entailed by the given premises. Let me go through this step by step.
+
+First, I'll list out all the premises to make sure I don't miss anything:
+
+1. The bear chases",251,64,2.8e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,3,proof:498f708e119319dd,True,UNK,"<think>
+Okay, so I'm trying to figure out if the hypothesis ""The cat is blue"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, the premises are:
+
+1. The cat eats the mouse.
+2. The mouse eats the cat",128,64,1.9e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,3,proof:3d8f5f15b7494d96,False,UNK,"<think>
+Alright, let's try to figure out if Fred is not nice based on the given premises. Okay, so first, I'll list out all the premises to make sure I don't miss anything.
+
+1. Alan wears all blue.
+2. Bob always goes out of his way to show he's kind to",192,64,2.4e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,3,proof:9a34163024165bf0,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis that Gary is rough is entailed by the given premises. Let me try to break this down step by step.
+
+First, let's list out all the premises to make sure I understand them correctly.
+
+1. Alan always goes out of his way to show",169,64,2.2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,3,proof:8476d9ff24da10ae,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cat does not chase the lion"" is entailed by the given premises. Let me go through this step by step.
+
+First, I'll list out all the premises to have a clear view:
+
+1. The cat chases the tiger.
+",223,64,2.6e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,3,proof:b91cb81eabe83273,Unknown,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Erin is quiet"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. Bob is quiet.
+2. Bob is smart.
+",136,64,2e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,3,proof:ad9c89710cdedfd6,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cat does not chase the mouse"" is entailed by the given premises. Let me go through this step by step.
+
+First, I'll list out all the premises to have a clear view:
+
+1. The cat chases the cow.
+",199,64,2.5e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,3,proof:317a840fa94c77f8,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis that Anne is white is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, the premises:
+
+1. Anne is round.
+2. Bob is round.
+3. Charlie is red.
+4",124,64,1.9e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,4,proof:31a75fb97e92b594,True,UNK,"<think>
+Alright, let's try to figure out if Dave is big based on the given premises. I'll go through each premise one by one and see what information I can gather about Dave and others.
+
+First, the premises mention several people: Alan, Dave, Eric, and Harry. Each has certain attributes like being",210,64,2.5e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,4,proof:87bd99e611345592,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cow does not need the tiger"" is entailed by the given premises. Let me go through this step by step.
+
+First, I'll list out all the premises to have a clear view:
+
+1. The cow eats the mouse.
+2",190,64,2.4e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,4,proof:ee5ab8e4ab0724e9,True,UNK,"<think>
+Okay, so I need to figure out if Charlie is big based on the given premises. Let me start by listing out all the premises to make sure I don't miss anything.
+
+First, the premises are:
+
+1. Charlie is rough.
+2. Dave is big.
+3. Dave is green.
+4.",176,64,2.3e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,4,proof:a58835fc92a5ce0a,True,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The rabbit sees the bald eagle"" is entailed by the given premises. Let me go through each premise step by step and see if I can find a logical path that leads to the conclusion that the rabbit sees the bald eagle.
+
+First, let",255,64,2.9e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,4,proof:7fd0c763cec2c99f,True,UNK,"<think>
+Okay, so I'm trying to figure out if the hypothesis ""The dog chases the cat"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises to have a clear view:
+
+1. The bald",268,64,3e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,4,proof:67ffe05d9bdfe873,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog is not cold"" is entailed by the given premises. Let me go through this step by step.
+
+First, I'll list out all the premises to have a clear view:
+
+1. The bald eagle chases the dog.
+2",237,64,2.7e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,4,proof:b85784eb09b7c363,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cow does not visit the bear"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises to have a clear view:
+
+1. The",261,64,2.9e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,4,proof:85a8292316281d9a,True,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog needs the cow"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The cat chases the lion.
+2",222,64,2.6e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,4,proof:25c399b5bc9e019e,Unknown,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Dave is red"" is entailed by the given premises. Let me go through each premise step by step and see what information I can extract.
+
+First, the premises mention Charlie is green and cold. Then, it says the young person who is always",188,64,2.4e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,4,proof:7828d8e4948c833d,False,UNK,"<think>
+Alright, let's try to figure out if the hypothesis ""The tiger does not see the bear"" is entailed by the given premises. I'll go through each premise step by step and see how they connect.
+
+First, let's list out all the premises to have a clear view:
+
+1. The bald",221,64,2.6e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,5,proof:34f03b7f18c766d4,True,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The lion visits the squirrel"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises to have a clear view:
+
+1. The bear does",248,64,2.8e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,5,proof:078290908350c8ee,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The mouse does not need the mouse"" is entailed by the given premises. Let me go through each premise step by step and see if I can derive any conclusions that might help me determine the truth of the hypothesis.
+
+First, let me list",263,64,2.9e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,5,proof:ae56255eed498b82,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""The rabbit is not green"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The lion chases the squirrel.
+2.",234,64,2.7e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,5,proof:f38424329a4dfc56,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bear does not visit the bear"" is entailed by the given premises. Let me go through each premise step by step and see what conclusions I can draw.
+
+First, let's list out all the premises to have a clear view:
+
+1",230,64,2.7e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,5,proof:213fe4dcb49d8254,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bear does not chase the rabbit"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The bear is blue.
+2",214,64,2.6e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,5,proof:24af1aafb3a172a4,False,UNK,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The squirrel does not like the lion"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. The bear chases the cat",180,64,2.3e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,5,proof:8e2b2a4a677148bd,True,UNK,"<think>
+Alright, let's try to figure out if Dave is red based on the given premises. I'll go through each premise step by step and see what conclusions I can draw.
+
+First, let's list out all the premises:
+
+1. Charlie is big.
+2. Charlie is green.
+3. Charlie is nice",176,64,2.3e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,5,proof:8079d11728bc6f96,False,UNK,"<think>
+Okay, so I need to figure out if the hypothesis ""Gary is not rough"" is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. Bob is cold.
+2. Bob is rough.
+",119,64,1.9e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,5,proof:4421d9d36798017f,True,UNK,"<think>
+Okay, so I need to figure out if Fiona is green based on the given premises. Let me start by listing out all the premises and see what I can deduce step by step.
+
+First, let's list all the premises:
+
+1. Erin is furry.
+2. Erin is red.
+3. Erin",156,64,2.1e-05,,,64,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,ta_64,proofwriter,5,proof:ed3a0b8b1720e935,True,UNK,"<think>
+Okay, so I need to figure out if the hypothesis that Harry is kind is entailed by the given premises. Let me go through each premise step by step and see how they connect.
+
+First, let's list out all the premises:
+
+1. Alan is kind and nice and looks green.
+2. That",179,64,2.3e-05,,,64,

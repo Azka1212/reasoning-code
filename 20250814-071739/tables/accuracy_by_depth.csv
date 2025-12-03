@@ -1,0 +1,13 @@
+dataset,,clutrr,clutrr,clutrr,clutrr,clutrr,proofwriter,proofwriter,proofwriter,proofwriter,proofwriter
+depth,,2,3,4,5,6,1,2,3,4,5
+model_key,mode,,,,,,,,,,
+deepseek_r1d_qwen32b,direct,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+deepseek_r1d_qwen32b,reasoning,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0
+glm45_air,direct,10.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+glm45_air,reasoning,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+gpt5,direct,10.0,10.0,10.0,10.0,10.0,50.0,60.0,80.0,90.0,80.0
+gpt5,reasoning,20.0,0.0,0.0,0.0,0.0,20.0,20.0,10.0,0.0,0.0
+llama31_8b,direct,20.0,20.0,20.0,20.0,20.0,50.0,20.0,50.0,40.0,60.0
+llama31_8b,reasoning,30.0,20.0,20.0,20.0,20.0,50.0,20.0,50.0,50.0,50.0
+qwen25_7b,direct,10.0,0.0,0.0,30.0,0.0,40.0,30.0,40.0,30.0,60.0
+qwen25_7b,reasoning,10.0,0.0,20.0,0.0,0.0,30.0,20.0,40.0,40.0,50.0

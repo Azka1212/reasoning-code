@@ -1,0 +1,797 @@
+model_key,provider,model,mode,dataset,depth,id,gold,pred,raw,prompt_tokens,completion_tokens,est_cost_usd,d_hat,b_hat,budget,changed_by_verify
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,2,clutrr:d4ff2c69-eaa9-4ba0-9f9f-33579afd323f,brother,,"<think>
+Okay, so I'm trying to figure out the relationship between Nicholas and George based on the story provided. Let me read the story again to make sure",107,32,1.3e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,2,clutrr:d4ff2c69-eaa9-4ba0-9f9f-33579afd323f,brother,,"<think>
+Okay, so I'm trying to figure out the relationship between Nicholas and George based on the story provided. The story says that Ashley's son Nicholas and",167,32,1.7e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,2,clutrr:d4ff2c69-eaa9-4ba0-9f9f-33579afd323f,brother,son,"<think>
+Okay, so I'm trying to figure out the relationship between Nicholas and George based on the story provided. The story says that Ashley's son Nicholas and",167,32,1.7e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,2,clutrr:2896c293-fe1c-4554-8faa-43d0933a84d0,grandmother,,"<think>
+Okay, so I need to figure out the relationship between Natalia and Ashley based on the story provided. Let me read through the story again to make",121,32,1.4e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,2,clutrr:2896c293-fe1c-4554-8faa-43d0933a84d0,grandmother,,"<think>
+Okay, so I'm trying to figure out the relationship between Natalia and Ashley in the given story. Let me read through the problem again to make",181,32,1.8e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,2,clutrr:2896c293-fe1c-4554-8faa-43d0933a84d0,grandmother,UNK,"<think>
+Okay, so I'm trying to figure out the relationship between Natalia and Ashley in the given story. Let me read through the problem again to make",181,32,1.8e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,2,clutrr:283a113d-0f2f-4ebe-977c-44fbb9345fe7,grandfather,,"<think>
+Okay, so I need to figure out the relationship between Lorraine and Clarence based on the story provided. Let me read through the details again to make",114,32,1.3e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,2,clutrr:283a113d-0f2f-4ebe-977c-44fbb9345fe7,grandfather,,"<think>
+Okay, so I'm trying to figure out the relationship between Lorraine and Clarence based on the given story. Let me break it down step by step",174,32,1.8e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,2,clutrr:283a113d-0f2f-4ebe-977c-44fbb9345fe7,grandfather,UNK,"<think>
+Okay, so I'm trying to figure out the relationship between Lorraine and Clarence based on the given story. Let me break it down step by step",174,32,1.8e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,2,clutrr:de37ad3e-820e-4c58-a246-2babf1e83096,granddaughter,,"<think>
+Okay, so I need to figure out the relationship between Ashley and April based on the story provided. Let me read through the story again to make sure",118,32,1.4e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,2,clutrr:de37ad3e-820e-4c58-a246-2babf1e83096,granddaughter,,"<think>
+Okay, so I need to figure out the relationship between Ashley and April based on the given story. Let me read through the problem again to make sure",178,32,1.8e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,2,clutrr:de37ad3e-820e-4c58-a246-2babf1e83096,granddaughter,UNK,"<think>
+Okay, so I need to figure out the relationship between Ashley and April based on the given story. Let me read through the problem again to make sure",178,32,1.8e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,2,clutrr:1f13bb75-6c38-42eb-a193-cd7f3433b3e1,sister,,"<think>
+Okay, so I need to figure out the relationship between Theresa and Lillian based on the story provided. Let me read through the story again to make",140,32,1.5e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,2,clutrr:1f13bb75-6c38-42eb-a193-cd7f3433b3e1,sister,,"<think>
+Okay, so I need to figure out the relationship between Theresa and Lillian based on the story provided. Let me read through the story again to make",200,32,2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,2,clutrr:1f13bb75-6c38-42eb-a193-cd7f3433b3e1,sister,UNK,"<think>
+Okay, so I need to figure out the relationship between Theresa and Lillian based on the story provided. Let me read through the story again to make",200,32,2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,2,clutrr:5a332849-b5f8-44c6-8140-77d31c127d24,daughter,,"<think>
+Okay, so I need to figure out the relationship between Lillian and Andrea based on the story provided. Let me read through the story again to make",120,32,1.4e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,2,clutrr:5a332849-b5f8-44c6-8140-77d31c127d24,daughter,,"<think>
+Okay, so I'm trying to figure out the relationship between Lillian and Andrea based on the story provided. Let me break it down step by step",180,32,1.8e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,2,clutrr:5a332849-b5f8-44c6-8140-77d31c127d24,daughter,UNK,"<think>
+Okay, so I'm trying to figure out the relationship between Lillian and Andrea based on the story provided. Let me break it down step by step",180,32,1.8e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,2,clutrr:0dd9e857-dfe2-454c-b127-9259184ee3f5,mother-in-law,,"<think>
+Alright, let's try to figure out the relationship between Douglas and Lillian based on the story provided. 
+
+First, the story mentions that Lillian",123,32,1.4e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,2,clutrr:0dd9e857-dfe2-454c-b127-9259184ee3f5,mother-in-law,,"<think>
+Okay, let's try to figure out the relationship between Douglas and Lillian based on the given story. 
+
+First, the story says that Lillian",183,32,1.9e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,2,clutrr:0dd9e857-dfe2-454c-b127-9259184ee3f5,mother-in-law,UNK,"<think>
+Okay, let's try to figure out the relationship between Douglas and Lillian based on the given story. 
+
+First, the story says that Lillian",183,32,1.9e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,2,clutrr:974a2a9a-6206-43cc-8096-7e8de1bf2561,father,,"<think>
+Okay, so I need to figure out the relationship between Kevin and Wayne based on the story provided. Let me read the story again carefully.
+
+Heidi",117,32,1.4e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,2,clutrr:974a2a9a-6206-43cc-8096-7e8de1bf2561,father,,"<think>
+Okay, so I'm trying to figure out the relationship between Kevin and Wayne based on the story provided. Let me break it down step by step.
+
+",177,32,1.8e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,2,clutrr:974a2a9a-6206-43cc-8096-7e8de1bf2561,father,UNK,"<think>
+Okay, so I'm trying to figure out the relationship between Kevin and Wayne based on the story provided. Let me break it down step by step.
+
+",177,32,1.8e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,2,clutrr:4ec92c57-502b-4798-b150-1cedfd1f0f86,granddaughter,,"<think>
+Okay, so I need to figure out the relationship between Clarence and Louise based on the story provided. Let me read through the story again to make sure",125,32,1.4e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,2,clutrr:4ec92c57-502b-4798-b150-1cedfd1f0f86,granddaughter,,"<think>
+Okay, so I need to figure out the relationship between Clarence and Louise based on the story provided. Let me read through the story again to make sure",185,32,1.9e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,2,clutrr:4ec92c57-502b-4798-b150-1cedfd1f0f86,granddaughter,UNK,"<think>
+Okay, so I need to figure out the relationship between Clarence and Louise based on the story provided. Let me read through the story again to make sure",185,32,1.9e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,2,clutrr:81b2b81c-5a95-43b2-8fac-e34b1662f8ad,daughter,,"<think>
+Okay, so I need to figure out the relationship between Nancy and Linda based on the story provided. Let me read through the story again to make sure",113,32,1.3e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,2,clutrr:81b2b81c-5a95-43b2-8fac-e34b1662f8ad,daughter,,"<think>
+Okay, so I'm trying to figure out the relationship between Nancy and Linda based on the story provided. Let me break it down step by step.
+
+",173,32,1.8e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,2,clutrr:81b2b81c-5a95-43b2-8fac-e34b1662f8ad,daughter,UNK,"<think>
+Okay, so I'm trying to figure out the relationship between Nancy and Linda based on the story provided. Let me break it down step by step.
+
+",173,32,1.8e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,3,clutrr:24f02008-e43a-480b-814f-3c5bca945980,daughter,,"<think>
+Alright, let's try to figure out the relationship between Lena and Pamela based on the story provided. 
+
+First, I'll break down the information given",180,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,3,clutrr:24f02008-e43a-480b-814f-3c5bca945980,daughter,,"<think>
+Alright, let's try to figure out the relationship between Lena and Pamela based on the story provided. 
+
+First, I'll break down the information given",240,32,2.3e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,3,clutrr:24f02008-e43a-480b-814f-3c5bca945980,daughter,UNK,"<think>
+Alright, let's try to figure out the relationship between Lena and Pamela based on the story provided. 
+
+First, I'll break down the information given",240,32,2.3e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,3,clutrr:0634c05e-fc36-4f1b-85f5-ca0b3ce34990,father,,"<think>
+Okay, so I need to figure out the relationship between Francisco and James based on the story provided. Let me read through the story again to make sure",143,32,1.6e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,3,clutrr:0634c05e-fc36-4f1b-85f5-ca0b3ce34990,father,,"<think>
+Okay, so I need to figure out the relationship between Francisco and James based on the story provided. Let me read through the story again to make sure",203,32,2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,3,clutrr:0634c05e-fc36-4f1b-85f5-ca0b3ce34990,father,UNK,"<think>
+Okay, so I need to figure out the relationship between Francisco and James based on the story provided. Let me read through the story again to make sure",203,32,2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,3,clutrr:95ad1142-342c-4f3e-9046-3e00fd3d6802,granddaughter,,"<think>
+Alright, let's try to figure out the relationship between James and Mildred based on the story provided. 
+
+First, I'll break down the information",163,32,1.7e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,3,clutrr:95ad1142-342c-4f3e-9046-3e00fd3d6802,granddaughter,,"<think>
+Alright, let's try to figure out the relationship between James and Mildred based on the story provided. 
+
+First, I'll break down the information",223,32,2.2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,3,clutrr:95ad1142-342c-4f3e-9046-3e00fd3d6802,granddaughter,UNK,"<think>
+Alright, let's try to figure out the relationship between James and Mildred based on the story provided. 
+
+First, I'll break down the information",223,32,2.2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,3,clutrr:4190c92c-9e29-45c0-9250-e1125f3df179,mother-in-law,,"<think>
+Alright, let's try to figure out the relationship between Clarence and Lynn based on the story provided. 
+
+First, I'll break down the information given",137,32,1.5e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,3,clutrr:4190c92c-9e29-45c0-9250-e1125f3df179,mother-in-law,,"<think>
+Okay, so I need to figure out the relationship between Clarence and Lynn based on the given story. Let me break it down step by step.
+
+First",197,32,2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,3,clutrr:4190c92c-9e29-45c0-9250-e1125f3df179,mother-in-law,UNK,"<think>
+Okay, so I need to figure out the relationship between Clarence and Lynn based on the given story. Let me break it down step by step.
+
+First",197,32,2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,3,clutrr:020994c1-b7dd-4e45-9d2f-792daf27be96,uncle,,"<think>
+Okay, so I need to figure out the relationship between Gloria and Joshua based on the story provided. Let me read through the story again to make sure",134,32,1.5e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,3,clutrr:020994c1-b7dd-4e45-9d2f-792daf27be96,uncle,,"<think>
+Okay, let's try to figure out the relationship between Gloria and Joshua based on the story provided. 
+
+First, the story mentions that Gloria loves her",194,32,1.9e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,3,clutrr:020994c1-b7dd-4e45-9d2f-792daf27be96,uncle,UNK,"<think>
+Okay, let's try to figure out the relationship between Gloria and Joshua based on the story provided. 
+
+First, the story mentions that Gloria loves her",194,32,1.9e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,3,clutrr:80f5d8b9-80e0-432d-b9ad-7154cff8d7a7,brother,,"<think>
+Okay, so I need to figure out the relationship between David and Francisco based on the story provided. Let me read through the story again to make sure",143,32,1.6e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,3,clutrr:80f5d8b9-80e0-432d-b9ad-7154cff8d7a7,brother,,"<think>
+Okay, so I'm trying to figure out the relationship between David and Francisco based on the story provided. Let me break it down step by step.
+
+",203,32,2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,3,clutrr:80f5d8b9-80e0-432d-b9ad-7154cff8d7a7,brother,UNK,"<think>
+Okay, so I'm trying to figure out the relationship between David and Francisco based on the story provided. Let me break it down step by step.
+
+",203,32,2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,3,clutrr:ae01053c-f4ab-4235-8321-669b6bba29b5,nephew,,"<think>
+Alright, let's try to figure out the relationship between David and Leonard based on the story provided. 
+
+First, I'll break down the information given",137,32,1.5e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,3,clutrr:ae01053c-f4ab-4235-8321-669b6bba29b5,nephew,,"<think>
+Okay, so I need to figure out the relationship between David and Leonard based on the story provided. Let me read through the story again to make sure",197,32,2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,3,clutrr:ae01053c-f4ab-4235-8321-669b6bba29b5,nephew,UNK,"<think>
+Okay, so I need to figure out the relationship between David and Leonard based on the story provided. Let me read through the story again to make sure",197,32,2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,3,clutrr:2650e85e-bed0-47af-8c60-fdf438778a08,granddaughter,,"<think>
+Alright, let's try to figure out the relationship between James and Tina based on the story provided. 
+
+First, the story mentions James having a grandson",137,32,1.5e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,3,clutrr:2650e85e-bed0-47af-8c60-fdf438778a08,granddaughter,,"<think>
+Okay, so I'm trying to figure out the relationship between James and Tina based on the story provided. Let me break it down step by step.
+
+",196,32,1.9e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,3,clutrr:2650e85e-bed0-47af-8c60-fdf438778a08,granddaughter,grandson,"<think>
+Okay, so I'm trying to figure out the relationship between James and Tina based on the story provided. Let me break it down step by step.
+
+",196,32,1.9e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,3,clutrr:74ee1d21-2079-4819-9a2c-5bb8ad31b1a4,niece,,"<think>
+Okay, so I need to figure out the relationship between Lynn and Carrie based on the story provided. Let me read through the story again to make sure",138,32,1.5e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,3,clutrr:74ee1d21-2079-4819-9a2c-5bb8ad31b1a4,niece,,"<think>
+Okay, so I need to figure out the relationship between Lynn and Carrie based on the story provided. Let me read through the story again to make sure",198,32,2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,3,clutrr:74ee1d21-2079-4819-9a2c-5bb8ad31b1a4,niece,UNK,"<think>
+Okay, so I need to figure out the relationship between Lynn and Carrie based on the story provided. Let me read through the story again to make sure",198,32,2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,3,clutrr:2994ec28-f071-4b22-b34a-d6a6ad760120,niece,,"<think>
+Okay, so I need to figure out the relationship between Cindy and Martha based on the story provided. Let me read through the story again to make sure",138,32,1.5e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,3,clutrr:2994ec28-f071-4b22-b34a-d6a6ad760120,niece,,"<think>
+Okay, so I need to figure out the relationship between Cindy and Martha based on the story provided. Let me read through the story again to make sure",198,32,2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,3,clutrr:2994ec28-f071-4b22-b34a-d6a6ad760120,niece,UNK,"<think>
+Okay, so I need to figure out the relationship between Cindy and Martha based on the story provided. Let me read through the story again to make sure",198,32,2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,4,clutrr:cee2db10-8a67-4cae-a3b7-02ef3ba79f9f,grandfather,,"<think>
+Alright, let's try to figure out the relationship between Nicole and Harold based on the story provided. 
+
+First, I'll break down the information given",140,32,1.5e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,4,clutrr:cee2db10-8a67-4cae-a3b7-02ef3ba79f9f,grandfather,,"<think>
+Alright, let's try to figure out the relationship between Nicole and Harold based on the story provided. 
+
+First, let's break down the information given",200,32,2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,4,clutrr:cee2db10-8a67-4cae-a3b7-02ef3ba79f9f,grandfather,UNK,"<think>
+Alright, let's try to figure out the relationship between Nicole and Harold based on the story provided. 
+
+First, let's break down the information given",200,32,2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,4,clutrr:6b7720df-f16a-4fa6-81dd-b8668bc506cc,nephew,,"<think>
+Alright, let's try to figure out the relationship between Antonio and Allan based on the story provided. 
+
+First, I'll go through the story step",153,32,1.6e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,4,clutrr:6b7720df-f16a-4fa6-81dd-b8668bc506cc,nephew,,"<think>
+Okay, so I need to figure out the relationship between Antonio and Allan based on the given story. Let me read through the story again to understand the",213,32,2.1e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,4,clutrr:6b7720df-f16a-4fa6-81dd-b8668bc506cc,nephew,UNK,"<think>
+Okay, so I need to figure out the relationship between Antonio and Allan based on the given story. Let me read through the story again to understand the",213,32,2.1e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,4,clutrr:afdfb0cd-5ef5-410c-a881-508ebe773ca6,mother-in-law,,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Shantel based on the story provided. 
+
+First, I'll break down the",187,32,1.9e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,4,clutrr:afdfb0cd-5ef5-410c-a881-508ebe773ca6,mother-in-law,,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Shantel based on the given story. 
+
+First, Dorothy is married to Pedro",247,32,2.3e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,4,clutrr:afdfb0cd-5ef5-410c-a881-508ebe773ca6,mother-in-law,UNK,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Shantel based on the given story. 
+
+First, Dorothy is married to Pedro",247,32,2.3e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,4,clutrr:50f2eec6-a5e0-459b-9e39-8137da6f1150,brother,,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Robert based on the story provided. 
+
+First, I'll break down the information given",138,32,1.5e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,4,clutrr:50f2eec6-a5e0-459b-9e39-8137da6f1150,brother,,"<think>
+Okay, so I need to figure out the relationship between Dorothy and Robert based on the story provided. Let me break it down step by step.
+
+First",198,32,2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,4,clutrr:50f2eec6-a5e0-459b-9e39-8137da6f1150,brother,UNK,"<think>
+Okay, so I need to figure out the relationship between Dorothy and Robert based on the story provided. Let me break it down step by step.
+
+First",198,32,2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,4,clutrr:d0c3d5dc-7e3a-43fb-b97e-aeca5709cf90,uncle,,"<think>
+Alright, let's try to figure out the relationship between Lizzie and Antonio based on the story provided. 
+
+First, I'll break down the information",177,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,4,clutrr:d0c3d5dc-7e3a-43fb-b97e-aeca5709cf90,uncle,,"<think>
+Alright, let's try to figure out the relationship between Lizzie and Antonio based on the story provided. 
+
+First, let's break down the information",237,32,2.3e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,4,clutrr:d0c3d5dc-7e3a-43fb-b97e-aeca5709cf90,uncle,UNK,"<think>
+Alright, let's try to figure out the relationship between Lizzie and Antonio based on the story provided. 
+
+First, let's break down the information",237,32,2.3e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,4,clutrr:7ee859d3-061a-434f-aa9a-94ef86406666,father,,"<think>
+Okay, so I need to figure out the relationship between Pedro and Harold based on the story provided. Let me read through the story again to make sure",143,32,1.6e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,4,clutrr:7ee859d3-061a-434f-aa9a-94ef86406666,father,,"<think>
+Okay, so I'm trying to figure out the relationship between Pedro and Harold based on the given story. Let me break it down step by step.
+
+",203,32,2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,4,clutrr:7ee859d3-061a-434f-aa9a-94ef86406666,father,UNK,"<think>
+Okay, so I'm trying to figure out the relationship between Pedro and Harold based on the given story. Let me break it down step by step.
+
+",203,32,2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,4,clutrr:bbbb1dc0-4a05-42af-bdb1-2a695ed68bf6,grandmother,,"<think>
+Okay, so I need to figure out the relationship between James and Shantel based on the story provided. Let me read through the story again to",141,32,1.5e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,4,clutrr:bbbb1dc0-4a05-42af-bdb1-2a695ed68bf6,grandmother,,"<think>
+Okay, so I need to figure out the relationship between James and Shantel based on the story provided. Let me read through the story again to",201,32,2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,4,clutrr:bbbb1dc0-4a05-42af-bdb1-2a695ed68bf6,grandmother,UNK,"<think>
+Okay, so I need to figure out the relationship between James and Shantel based on the story provided. Let me read through the story again to",201,32,2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,4,clutrr:37d41cd0-7c9a-437e-9ac8-939666751e2c,grandson,,"<think>
+Alright, let's try to figure out the relationship between Shantel and Kevin based on the story provided. 
+
+First, I'll break down the",151,32,1.6e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,4,clutrr:37d41cd0-7c9a-437e-9ac8-939666751e2c,grandson,,"<think>
+Okay, so I'm trying to figure out the relationship between Shantel and Kevin based on the story provided. Let me break it down step by",211,32,2.1e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,4,clutrr:37d41cd0-7c9a-437e-9ac8-939666751e2c,grandson,UNK,"<think>
+Okay, so I'm trying to figure out the relationship between Shantel and Kevin based on the story provided. Let me break it down step by",211,32,2.1e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,4,clutrr:1545a148-d109-464c-b0ce-27c8cc27f65a,father,,"<think>
+Alright, let's try to figure out the relationship between Tracy and Harold. So, from the story, Samuel stays with his grandfather Harold every weekend.",139,32,1.5e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,4,clutrr:1545a148-d109-464c-b0ce-27c8cc27f65a,father,,"<think>
+Okay, so I need to figure out the relationship between Tracy and Harold based on the given story. Let me break it down step by step.
+
+First",198,32,2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,4,clutrr:1545a148-d109-464c-b0ce-27c8cc27f65a,father,grandfather,"<think>
+Okay, so I need to figure out the relationship between Tracy and Harold based on the given story. Let me break it down step by step.
+
+First",198,32,2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,4,clutrr:6df23630-83bb-461d-88c1-8585b19b4f1f,uncle,,"<think>
+Alright, let's try to figure out the relationship between Michelle and Louis based on the story provided. 
+
+First, I'll break down the information given",148,32,1.6e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,4,clutrr:6df23630-83bb-461d-88c1-8585b19b4f1f,uncle,,"<think>
+Alright, let's try to figure out the relationship between Michelle and Louis based on the story provided. 
+
+First, I'll break down the information given",208,32,2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,4,clutrr:6df23630-83bb-461d-88c1-8585b19b4f1f,uncle,UNK,"<think>
+Alright, let's try to figure out the relationship between Michelle and Louis based on the story provided. 
+
+First, I'll break down the information given",208,32,2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,5,clutrr:dc0b42ee-b6fe-4746-86e6-b0fd8a10535a,granddaughter,,"<think>
+Okay, so I need to figure out the relationship between Jose and Adeline based on the story provided. Let me read through the story again to make",152,32,1.6e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,5,clutrr:dc0b42ee-b6fe-4746-86e6-b0fd8a10535a,granddaughter,,"<think>
+Okay, so I need to figure out the relationship between Jose and Adeline based on the given story. Let me break it down step by step.
+
+",212,32,2.1e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,5,clutrr:dc0b42ee-b6fe-4746-86e6-b0fd8a10535a,granddaughter,UNK,"<think>
+Okay, so I need to figure out the relationship between Jose and Adeline based on the given story. Let me break it down step by step.
+
+",212,32,2.1e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,5,clutrr:5131260d-b36f-4009-89f7-1c94e325d132,nephew,,"<think>
+Alright, let's try to figure out the relationship between Guadalupe and Gilbert. So, from the story, Guadalupe is the",177,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,5,clutrr:5131260d-b36f-4009-89f7-1c94e325d132,nephew,,"<think>
+Alright, let's try to figure out the relationship between Guadalupe and Gilbert based on the story provided. 
+
+First, I'll list out",237,32,2.3e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,5,clutrr:5131260d-b36f-4009-89f7-1c94e325d132,nephew,UNK,"<think>
+Alright, let's try to figure out the relationship between Guadalupe and Gilbert based on the story provided. 
+
+First, I'll list out",237,32,2.3e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,5,clutrr:22d1de6b-d68a-4288-be3e-9b3e27e98078,uncle,,"<think>
+Alright, let's try to figure out the relationship between Charles and William based on the story provided. 
+
+First, I'll break down the information given",141,32,1.5e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,5,clutrr:22d1de6b-d68a-4288-be3e-9b3e27e98078,uncle,,"<think>
+Alright, let's try to figure out the relationship between Charles and William based on the story provided. 
+
+First, let's break down the information given",201,32,2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,5,clutrr:22d1de6b-d68a-4288-be3e-9b3e27e98078,uncle,UNK,"<think>
+Alright, let's try to figure out the relationship between Charles and William based on the story provided. 
+
+First, let's break down the information given",201,32,2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,5,clutrr:dfd941c3-aef4-4bfc-8f4f-5bbebdb015d2,father,,"<think>
+Alright, let's try to figure out the relationship between Richard and Donald based on the story provided. 
+
+First, I'll go through the story step",171,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,5,clutrr:dfd941c3-aef4-4bfc-8f4f-5bbebdb015d2,father,,"<think>
+Alright, let's try to figure out the relationship between Richard and Donald based on the story provided. 
+
+First, I'll list out all the characters",231,32,2.2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,5,clutrr:dfd941c3-aef4-4bfc-8f4f-5bbebdb015d2,father,UNK,"<think>
+Alright, let's try to figure out the relationship between Richard and Donald based on the story provided. 
+
+First, I'll list out all the characters",231,32,2.2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,5,clutrr:e1bf7afa-9389-48e1-9efb-4dfb2e11e5f7,father,,"<think>
+Alright, let's try to figure out the relationship between Andrew and Donald based on the story provided. 
+
+First, I'll go through the story step",172,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,5,clutrr:e1bf7afa-9389-48e1-9efb-4dfb2e11e5f7,father,,"<think>
+Okay, so I'm trying to figure out the relationship between Andrew and Donald based on the story provided. Let me read through the story again to make",232,32,2.2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,5,clutrr:e1bf7afa-9389-48e1-9efb-4dfb2e11e5f7,father,UNK,"<think>
+Okay, so I'm trying to figure out the relationship between Andrew and Donald based on the story provided. Let me read through the story again to make",232,32,2.2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,5,clutrr:97d790d0-bb1c-4cce-8611-e48eff90e9bf,uncle,,"<think>
+Okay, so I need to figure out the relationship between Adeline and Milton based on the story provided. Let me read through the story again to make",167,32,1.7e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,5,clutrr:97d790d0-bb1c-4cce-8611-e48eff90e9bf,uncle,,"<think>
+Okay, so I need to figure out the relationship between Adeline and Milton based on the story provided. Let me read through the story again to make",227,32,2.2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,5,clutrr:97d790d0-bb1c-4cce-8611-e48eff90e9bf,uncle,UNK,"<think>
+Okay, so I need to figure out the relationship between Adeline and Milton based on the story provided. Let me read through the story again to make",227,32,2.2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,5,clutrr:c27a627c-514d-4591-a62f-30b7955362fa,nephew,,"<think>
+Alright, let's try to figure out the relationship between Angela and Charles based on the story provided. 
+
+First, I'll list out all the characters",172,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,5,clutrr:c27a627c-514d-4591-a62f-30b7955362fa,nephew,,"<think>
+Okay, so I need to figure out the relationship between Angela and Charles based on the given story. Let me read through the story again to understand the",232,32,2.2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,5,clutrr:c27a627c-514d-4591-a62f-30b7955362fa,nephew,UNK,"<think>
+Okay, so I need to figure out the relationship between Angela and Charles based on the given story. Let me read through the story again to understand the",232,32,2.2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,5,clutrr:adf18503-e7a5-49ef-9cdb-f80ef4167ab4,niece,,"<think>
+Alright, let's try to figure out the relationship between Milton and Thelma based on the story provided. 
+
+First, I'll break down the",180,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,5,clutrr:adf18503-e7a5-49ef-9cdb-f80ef4167ab4,niece,,"<think>
+Okay, so I need to figure out the relationship between Milton and Thelma based on the given story. Let me start by breaking down the information",240,32,2.3e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,5,clutrr:adf18503-e7a5-49ef-9cdb-f80ef4167ab4,niece,UNK,"<think>
+Okay, so I need to figure out the relationship between Milton and Thelma based on the given story. Let me start by breaking down the information",240,32,2.3e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,5,clutrr:ffc387c1-ae5f-4f28-909b-45dd38dc30fc,daughter-in-law,,"<think>
+Alright, let's try to figure out the relationship between Donald and Mollie based on the story provided. 
+
+First, I'll break down the",160,32,1.7e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,5,clutrr:ffc387c1-ae5f-4f28-909b-45dd38dc30fc,daughter-in-law,,"<think>
+Alright, let's try to figure out the relationship between Donald and Mollie based on the story provided. 
+
+First, I'll list out all",220,32,2.1e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,5,clutrr:ffc387c1-ae5f-4f28-909b-45dd38dc30fc,daughter-in-law,UNK,"<think>
+Alright, let's try to figure out the relationship between Donald and Mollie based on the story provided. 
+
+First, I'll list out all",220,32,2.1e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,5,clutrr:0f014b7a-8f44-4079-9491-84d20bc16ac8,nephew,,"<think>
+Alright, let's try to figure out the relationship between Angela and Henry based on the story provided. 
+
+First, I'll break down the information given",155,32,1.6e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,5,clutrr:0f014b7a-8f44-4079-9491-84d20bc16ac8,nephew,,"<think>
+Okay, so I need to figure out the relationship between Angela and Henry based on the story provided. Let me read through the story again to make sure",215,32,2.1e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,5,clutrr:0f014b7a-8f44-4079-9491-84d20bc16ac8,nephew,UNK,"<think>
+Okay, so I need to figure out the relationship between Angela and Henry based on the story provided. Let me read through the story again to make sure",215,32,2.1e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,6,clutrr:78e69cbf-0f3b-48fd-a8ed-3fc2382c9d71,nephew,,"<think>
+Alright, let's try to figure out the relationship between Clifton and Ronald based on the story provided. 
+
+First, I'll go through the story",200,32,2e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,6,clutrr:78e69cbf-0f3b-48fd-a8ed-3fc2382c9d71,nephew,,"<think>
+Alright, let's try to figure out the relationship between Clifton and Ronald based on the story provided. 
+
+First, I'll go through the story",260,32,2.4e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,6,clutrr:78e69cbf-0f3b-48fd-a8ed-3fc2382c9d71,nephew,UNK,"<think>
+Alright, let's try to figure out the relationship between Clifton and Ronald based on the story provided. 
+
+First, I'll go through the story",260,32,2.4e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,6,clutrr:76ff4690-db3d-44e9-af0b-752d39aa84d5,nephew,,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Ross based on the story provided. 
+
+First, I'll go through the story again",213,32,2.1e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,6,clutrr:76ff4690-db3d-44e9-af0b-752d39aa84d5,nephew,,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Ross based on the story provided. 
+
+First, I'll go through the story step",273,32,2.5e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,6,clutrr:76ff4690-db3d-44e9-af0b-752d39aa84d5,nephew,UNK,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Ross based on the story provided. 
+
+First, I'll go through the story step",273,32,2.5e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,6,clutrr:d01f9f0d-c960-4b89-9be8-c1aaa673a963,niece,,"<think>
+Alright, let's try to figure out the relationship between Clifton and Charlsie based on the story provided. 
+
+First, I'll break down",191,32,1.9e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,6,clutrr:d01f9f0d-c960-4b89-9be8-c1aaa673a963,niece,,"<think>
+Alright, let's try to figure out the relationship between Clifton and Charlsie based on the story provided. 
+
+First, let's break down",251,32,2.4e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,6,clutrr:d01f9f0d-c960-4b89-9be8-c1aaa673a963,niece,UNK,"<think>
+Alright, let's try to figure out the relationship between Clifton and Charlsie based on the story provided. 
+
+First, let's break down",251,32,2.4e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,6,clutrr:4690a981-9a1b-4f57-94a4-705d6053d5aa,uncle,,"<think>
+Alright, let's try to figure out the relationship between Arthur and Clifton based on the story provided. 
+
+First, I'll go through the story",214,32,2.1e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,6,clutrr:4690a981-9a1b-4f57-94a4-705d6053d5aa,uncle,,"<think>
+Okay, so I need to figure out the relationship between Arthur and Clifton based on the story provided. Let me read through the story again to get",274,32,2.5e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,6,clutrr:4690a981-9a1b-4f57-94a4-705d6053d5aa,uncle,UNK,"<think>
+Okay, so I need to figure out the relationship between Arthur and Clifton based on the story provided. Let me read through the story again to get",274,32,2.5e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,6,clutrr:abd37269-e239-4c62-b67f-145fe41731e3,grandson,,"<think>
+Alright, let's try to figure out the relationship between Mary and Patrick based on the story provided. 
+
+First, I'll break down the information given",186,32,1.9e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,6,clutrr:abd37269-e239-4c62-b67f-145fe41731e3,grandson,,"<think>
+Alright, let's try to figure out the relationship between Mary and Patrick based on the story provided. 
+
+First, I'll break down the information given",246,32,2.3e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,6,clutrr:abd37269-e239-4c62-b67f-145fe41731e3,grandson,UNK,"<think>
+Alright, let's try to figure out the relationship between Mary and Patrick based on the story provided. 
+
+First, I'll break down the information given",246,32,2.3e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,6,clutrr:32014131-f201-4f41-ab86-7c6d728ec044,brother,,"<think>
+Alright, let's try to figure out the relationship between Erica and Robert based on the story provided. 
+
+First, I'll go through the story step",180,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,6,clutrr:32014131-f201-4f41-ab86-7c6d728ec044,brother,,"<think>
+Alright, let's try to figure out the relationship between Erica and Robert based on the story provided. 
+
+First, I'll go through the story step",240,32,2.3e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,6,clutrr:32014131-f201-4f41-ab86-7c6d728ec044,brother,UNK,"<think>
+Alright, let's try to figure out the relationship between Erica and Robert based on the story provided. 
+
+First, I'll go through the story step",240,32,2.3e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,6,clutrr:bee9a22e-378e-40fb-a219-4b6909b1abdc,grandfather,,"<think>
+Alright, let's try to figure out the relationship between Arthur and Daniel based on the story provided. 
+
+First, I'll list out all the family",182,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,6,clutrr:bee9a22e-378e-40fb-a219-4b6909b1abdc,grandfather,,"<think>
+Alright, let's try to figure out the relationship between Arthur and Daniel based on the story provided. 
+
+First, I'll list out all the characters",242,32,2.3e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,6,clutrr:bee9a22e-378e-40fb-a219-4b6909b1abdc,grandfather,UNK,"<think>
+Alright, let's try to figure out the relationship between Arthur and Daniel based on the story provided. 
+
+First, I'll list out all the characters",242,32,2.3e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,6,clutrr:beef3a7f-837d-4ef6-87ce-15e8fe351b40,sister,,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Katherine. So, from the story, we have several family members mentioned. Let me",181,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,6,clutrr:beef3a7f-837d-4ef6-87ce-15e8fe351b40,sister,,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Katherine based on the story provided. 
+
+First, I'll break down the information given",241,32,2.3e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,6,clutrr:beef3a7f-837d-4ef6-87ce-15e8fe351b40,sister,UNK,"<think>
+Alright, let's try to figure out the relationship between Dorothy and Katherine based on the story provided. 
+
+First, I'll break down the information given",241,32,2.3e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,6,clutrr:0b5a5fc0-e7ec-45ac-b197-92e372507411,niece,,"<think>
+Alright, let's try to figure out the relationship between Katherine and Julie based on the story provided. 
+
+First, I'll break down the information given",156,32,1.7e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,6,clutrr:0b5a5fc0-e7ec-45ac-b197-92e372507411,niece,,"<think>
+Okay, let's try to figure out the relationship between Katherine and Julie based on the story provided. 
+
+First, I'll break down the story to",216,32,2.1e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,6,clutrr:0b5a5fc0-e7ec-45ac-b197-92e372507411,niece,UNK,"<think>
+Okay, let's try to figure out the relationship between Katherine and Julie based on the story provided. 
+
+First, I'll break down the story to",216,32,2.1e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,clutrr,6,clutrr:50287a6a-b21a-489b-b1ca-b3d74fb100a9,aunt,,"<think>
+Alright, let's try to figure out the relationship between Warren and Erica based on the story provided. 
+
+First, I'll list out all the characters",170,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,clutrr,6,clutrr:50287a6a-b21a-489b-b1ca-b3d74fb100a9,aunt,,"<think>
+Okay, so I need to figure out the relationship between Warren and Erica based on the given story. Let me start by breaking down the information step by",230,32,2.2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,clutrr,6,clutrr:50287a6a-b21a-489b-b1ca-b3d74fb100a9,aunt,UNK,"<think>
+Okay, so I need to figure out the relationship between Warren and Erica based on the given story. Let me start by breaking down the information step by",230,32,2.2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,1,proof:548b270057840f05,Unknown,,"<think>
+Okay, so I need to figure out if the hypothesis ""Harry is smart"" is entailed by the given premises. Let me go through each premise",115,32,1.3e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,1,proof:548b270057840f05,Unknown,,"<think>
+Okay, so I'm trying to figure out whether Harry is smart based on the given premises. Let me go through each premise step by step and see",170,32,1.8e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,1,proof:548b270057840f05,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out whether Harry is smart based on the given premises. Let me go through each premise step by step and see",170,32,1.8e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,1,proof:1d6931d6bf87a793,Unknown,,"<think>
+Okay, so I need to figure out if the hypothesis ""The lion eats the dog"" is entailed by the given premises. Let me go through",180,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,1,proof:1d6931d6bf87a793,Unknown,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The lion eats the dog"" is true or false based on the given premises. Let",235,32,2.2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,1,proof:1d6931d6bf87a793,Unknown,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The lion eats the dog"" is true or false based on the given premises. Let",235,32,2.2e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,1,proof:6cc2da8ddd31a911,False,,"<think>
+Alright, let's try to figure out if Gary is not kind based on the given premises. I'll go through each premise step by step and see",196,32,1.9e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,1,proof:6cc2da8ddd31a911,False,,"<think>
+Okay, so I'm trying to figure out whether Gary is kind or not based on the given premises. Let me go through each premise step by step",251,32,2.4e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,1,proof:6cc2da8ddd31a911,False,UNK,"<think>
+Okay, so I'm trying to figure out whether Gary is kind or not based on the given premises. Let me go through each premise step by step",251,32,2.4e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,1,proof:8bf0b745f303bbda,Unknown,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog is not green"" is entailed by the given premises. Let me go",198,32,2e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,1,proof:8bf0b745f303bbda,Unknown,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog is not green"" is true or false based on the given premises. Let",253,32,2.4e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,1,proof:8bf0b745f303bbda,Unknown,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog is not green"" is true or false based on the given premises. Let",253,32,2.4e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,1,proof:22050cc8d0cf79e1,Unknown,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bald eagle sees the bald eagle"" is entailed by the given premises. Let",160,32,1.7e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,1,proof:22050cc8d0cf79e1,Unknown,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bald eagle sees the bald eagle"" is true or false based on the given premises",215,32,2.1e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,1,proof:22050cc8d0cf79e1,Unknown,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bald eagle sees the bald eagle"" is true or false based on the given premises",215,32,2.1e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,1,proof:a83002d4b03dec2d,False,,"<think>
+Okay, so I need to figure out if the hypothesis ""Charlie is not smart"" is entailed by the given premises. Let me go through each",115,32,1.3e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,1,proof:a83002d4b03dec2d,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""Charlie is not smart"" is true or false based on the given premises. Let me",170,32,1.8e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,1,proof:a83002d4b03dec2d,False,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""Charlie is not smart"" is true or false based on the given premises. Let me",170,32,1.8e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,1,proof:5fd3d2ac73d84da5,True,,"<think>
+Okay, so I need to figure out if the hypothesis ""The mouse is red"" is entailed by the given premises. Let me break this down",85,32,1.1e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,1,proof:5fd3d2ac73d84da5,True,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The mouse is red"" is true or false based on the given premises. Let me",140,32,1.5e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,1,proof:5fd3d2ac73d84da5,True,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The mouse is red"" is true or false based on the given premises. Let me",140,32,1.5e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,1,proof:39e0a64b75d21d0e,False,,"<think>
+Okay, so I need to figure out if the hypothesis ""Alan is not big"" is entailed by the given premises. Let me go through each",154,32,1.6e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,1,proof:39e0a64b75d21d0e,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""Alan is not big"" is true or false based on the given premises. Let me",209,32,2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,1,proof:39e0a64b75d21d0e,False,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""Alan is not big"" is true or false based on the given premises. Let me",209,32,2e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,1,proof:371d711d320f6362,Unknown,,"<think>
+Okay, so I need to figure out if the hypothesis ""Charlie is big"" is entailed by the given premises. Let me start by reading through",211,32,2.1e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,1,proof:371d711d320f6362,Unknown,,"<think>
+Okay, so I'm trying to figure out whether Charlie is big based on the given premises. Let me go through each premise one by one and see",266,32,2.5e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,1,proof:371d711d320f6362,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out whether Charlie is big based on the given premises. Let me go through each premise one by one and see",266,32,2.5e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,1,proof:ab5abb8f18d2899a,False,,"<think>
+Okay, so I need to figure out if the hypothesis ""Dave is not quiet"" is entailed by the given premises. Let me go through each",152,32,1.6e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,1,proof:ab5abb8f18d2899a,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""Dave is not quiet"" is true or false based on the given premises. Let me",207,32,2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,1,proof:ab5abb8f18d2899a,False,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""Dave is not quiet"" is true or false based on the given premises. Let me",207,32,2e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,2,proof:0de03e2150c1718c,Unknown,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The tiger does not eat the tiger"" is entailed by the given premises. Let",178,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,2,proof:0de03e2150c1718c,Unknown,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The tiger does not eat the tiger"" is true or false based on the given premises",233,32,2.2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,2,proof:0de03e2150c1718c,Unknown,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The tiger does not eat the tiger"" is true or false based on the given premises",233,32,2.2e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,2,proof:abf549a96872e12e,True,,"<think>
+Alright, let's try to figure out if Charlie is quiet based on the given premises. I'll go through each premise step by step and see how",165,32,1.7e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,2,proof:abf549a96872e12e,True,,"<think>
+Okay, so I'm trying to figure out whether Charlie is quiet based on the given premises. Let me go through each premise step by step and see",220,32,2.1e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,2,proof:abf549a96872e12e,True,UNK,"<think>
+Okay, so I'm trying to figure out whether Charlie is quiet based on the given premises. Let me go through each premise step by step and see",220,32,2.1e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,2,proof:babd8efbc014636d,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog is not red"" is entailed by the given premises. Let me go",159,32,1.7e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,2,proof:babd8efbc014636d,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog is not red"" is true or false based on the given premises. Let",214,32,2.1e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,2,proof:babd8efbc014636d,False,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog is not red"" is true or false based on the given premises. Let",214,32,2.1e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,2,proof:0a440e32a57616e5,True,,"<think>
+Okay, so I need to figure out if the hypothesis ""Anne is round"" is entailed by the given premises. Let me go through each premise",157,32,1.7e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,2,proof:0a440e32a57616e5,True,,"<think>
+Okay, so I'm trying to figure out whether Anne is round based on the given premises. Let me go through each premise step by step.
+
+First",212,32,2.1e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,2,proof:0a440e32a57616e5,True,UNK,"<think>
+Okay, so I'm trying to figure out whether Anne is round based on the given premises. Let me go through each premise step by step.
+
+First",212,32,2.1e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,2,proof:4bf72b45d9ccf5a7,True,,"<think>
+Okay, so I need to figure out if the hypothesis ""The bald eagle is blue"" is entailed by the given premises. Let me go through",198,32,2e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,2,proof:4bf72b45d9ccf5a7,True,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bald eagle is blue"" is true or false based on the given premises. Let",253,32,2.4e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,2,proof:4bf72b45d9ccf5a7,True,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bald eagle is blue"" is true or false based on the given premises. Let",253,32,2.4e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,2,proof:ad9ece92fb5e42e2,Unknown,,"<think>
+Alright, let's try to figure out if the hypothesis ""Charlie is not green"" is entailed by the given premises. I'll go through each",204,32,2e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,2,proof:ad9ece92fb5e42e2,Unknown,,"<think>
+Okay, so I'm trying to figure out whether Charlie is green or not based on the given premises. Let me go through each premise one by one",259,32,2.4e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,2,proof:ad9ece92fb5e42e2,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out whether Charlie is green or not based on the given premises. Let me go through each premise one by one",259,32,2.4e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,2,proof:f6f4ece183f7557b,True,,"<think>
+Okay, so I need to figure out if the hypothesis ""Harry is quiet"" is entailed by the given premises. Let me go through each premise",96,32,1.2e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,2,proof:f6f4ece183f7557b,True,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""Harry is quiet"" is true or false based on the given premises. Let me go",151,32,1.6e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,2,proof:f6f4ece183f7557b,True,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""Harry is quiet"" is true or false based on the given premises. Let me go",151,32,1.6e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,2,proof:6ceb7387a5cdc9ec,False,,"<think>
+Okay, so I need to figure out if the hypothesis ""Bob is not nice"" is entailed by the given premises. Let me go through each",98,32,1.2e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,2,proof:6ceb7387a5cdc9ec,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""Bob is not nice"" is true or false based on the given premises. Let me",153,32,1.6e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,2,proof:6ceb7387a5cdc9ec,False,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""Bob is not nice"" is true or false based on the given premises. Let me",153,32,1.6e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,2,proof:3575287dcaa58bca,Unknown,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The lion does not see the lion"" is entailed by the given premises. Let",179,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,2,proof:3575287dcaa58bca,Unknown,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The lion does not see the lion"" is true or false based on the given premises",234,32,2.2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,2,proof:3575287dcaa58bca,Unknown,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The lion does not see the lion"" is true or false based on the given premises",234,32,2.2e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,2,proof:3755244df094d55e,Unknown,,"<think>
+Okay, so I need to figure out if the hypothesis that Gary is red is entailed by the given premises. Let me go through each premise step",194,32,1.9e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,2,proof:3755244df094d55e,Unknown,,"<think>
+Okay, so I'm trying to figure out whether Gary is red based on the given premises. Let me go through each premise one by one and see",249,32,2.3e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,2,proof:3755244df094d55e,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out whether Gary is red based on the given premises. Let me go through each premise one by one and see",249,32,2.3e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,3,proof:53fac7c7f1cf0eae,True,,"<think>
+Okay, so I need to figure out if the hypothesis ""Harry is blue"" is entailed by the given premises. Let me go through each premise",113,32,1.3e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,3,proof:53fac7c7f1cf0eae,True,,"<think>
+Okay, let's try to figure out if Harry is blue based on the given premises. 
+
+First, I'll list out all the premises to keep",168,32,1.7e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,3,proof:53fac7c7f1cf0eae,True,UNK,"<think>
+Okay, let's try to figure out if Harry is blue based on the given premises. 
+
+First, I'll list out all the premises to keep",168,32,1.7e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,3,proof:052f7defef2b2fdb,Unknown,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cat is not big"" is entailed by the given premises. Let me go",176,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,3,proof:052f7defef2b2fdb,Unknown,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cat is not big"" is true or false based on the given premises. Let",231,32,2.2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,3,proof:052f7defef2b2fdb,Unknown,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cat is not big"" is true or false based on the given premises. Let",231,32,2.2e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,3,proof:59a14acde73a5ae8,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bear does not eat the bear"" is entailed by the given premises. Let",244,32,2.3e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,3,proof:59a14acde73a5ae8,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bear does not eat the bear"" is true or false based on the given premises",299,32,2.7e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,3,proof:59a14acde73a5ae8,False,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bear does not eat the bear"" is true or false based on the given premises",299,32,2.7e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,3,proof:498f708e119319dd,True,,"<think>
+Okay, so I'm trying to figure out if the hypothesis ""The cat is blue"" is entailed by the given premises. Let me go through",121,32,1.4e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,3,proof:498f708e119319dd,True,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cat is blue"" is true or false based on the given premises. Let me",176,32,1.8e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,3,proof:498f708e119319dd,True,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cat is blue"" is true or false based on the given premises. Let me",176,32,1.8e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,3,proof:3d8f5f15b7494d96,False,,"<think>
+Okay, so I need to figure out if the hypothesis ""Fred is not nice"" is entailed by the given premises. Let me start by breaking",185,32,1.9e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,3,proof:3d8f5f15b7494d96,False,,"<think>
+Okay, so I'm trying to figure out whether Fred is nice or not based on the given premises. Let me go through each premise one by one",240,32,2.3e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,3,proof:3d8f5f15b7494d96,False,UNK,"<think>
+Okay, so I'm trying to figure out whether Fred is nice or not based on the given premises. Let me go through each premise one by one",240,32,2.3e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,3,proof:9a34163024165bf0,True,,"<think>
+Okay, so I need to figure out if the hypothesis that Gary is rough is entailed by the given premises. Let me try to break this down",162,32,1.7e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,3,proof:9a34163024165bf0,True,,"<think>
+Okay, let's try to figure out if Gary is rough based on the given premises. 
+
+First, let's list out all the information provided:
+
+",217,32,2.1e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,3,proof:9a34163024165bf0,True,UNK,"<think>
+Okay, let's try to figure out if Gary is rough based on the given premises. 
+
+First, let's list out all the information provided:
+
+",217,32,2.1e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,3,proof:8476d9ff24da10ae,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cat does not chase the lion"" is entailed by the given premises. Let",216,32,2.1e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,3,proof:8476d9ff24da10ae,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cat does not chase the lion"" is true or false based on the given premises",271,32,2.5e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,3,proof:8476d9ff24da10ae,False,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cat does not chase the lion"" is true or false based on the given premises",271,32,2.5e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,3,proof:b91cb81eabe83273,Unknown,,"<think>
+Okay, so I need to figure out if the hypothesis ""Erin is quiet"" is entailed by the given premises. Let me go through each",129,32,1.4e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,3,proof:b91cb81eabe83273,Unknown,,"<think>
+Okay, so I'm trying to figure out whether Erin is quiet based on the given premises. Let me go through each premise step by step and see",184,32,1.9e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,3,proof:b91cb81eabe83273,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out whether Erin is quiet based on the given premises. Let me go through each premise step by step and see",184,32,1.9e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,3,proof:ad9c89710cdedfd6,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cat does not chase the mouse"" is entailed by the given premises. Let",192,32,1.9e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,3,proof:ad9c89710cdedfd6,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cat does not chase the mouse"" is true or false based on the given premises",247,32,2.3e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,3,proof:ad9c89710cdedfd6,False,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cat does not chase the mouse"" is true or false based on the given premises",247,32,2.3e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,3,proof:317a840fa94c77f8,True,,"<think>
+Okay, so I need to figure out if the hypothesis that Anne is white is entailed by the given premises. Let me go through each premise step",117,32,1.4e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,3,proof:317a840fa94c77f8,True,,"<think>
+Okay, let's try to figure out if Anne is white based on the given premises. 
+
+First, let's list out all the information we have",172,32,1.8e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,3,proof:317a840fa94c77f8,True,UNK,"<think>
+Okay, let's try to figure out if Anne is white based on the given premises. 
+
+First, let's list out all the information we have",172,32,1.8e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,4,proof:31a75fb97e92b594,True,,"<think>
+Alright, let's try to figure out if Dave is big based on the given premises. I'll go through each premise step by step and see what",203,32,2e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,4,proof:31a75fb97e92b594,True,,"<think>
+Okay, so I'm trying to figure out whether Dave is big based on the given premises. Let me go through each premise one by one and see",258,32,2.4e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,4,proof:31a75fb97e92b594,True,UNK,"<think>
+Okay, so I'm trying to figure out whether Dave is big based on the given premises. Let me go through each premise one by one and see",258,32,2.4e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,4,proof:87bd99e611345592,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cow does not need the tiger"" is entailed by the given premises. Let",183,32,1.9e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,4,proof:87bd99e611345592,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cow does not need the tiger"" is true or false based on the given premises",238,32,2.3e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,4,proof:87bd99e611345592,False,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cow does not need the tiger"" is true or false based on the given premises",238,32,2.3e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,4,proof:ee5ab8e4ab0724e9,True,,"<think>
+Okay, so I need to figure out if the hypothesis ""Charlie is big"" is entailed by the given premises. Let me start by listing out",169,32,1.7e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,4,proof:ee5ab8e4ab0724e9,True,,"<think>
+Okay, so I'm trying to figure out whether Charlie is big based on the given premises. Let me go through each premise step by step and see",224,32,2.2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,4,proof:ee5ab8e4ab0724e9,True,UNK,"<think>
+Okay, so I'm trying to figure out whether Charlie is big based on the given premises. Let me go through each premise step by step and see",224,32,2.2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,4,proof:a58835fc92a5ce0a,True,,"<think>
+Okay, so I'm trying to figure out if the hypothesis ""The rabbit sees the bald eagle"" is entailed by the given premises. Let me",248,32,2.3e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,4,proof:a58835fc92a5ce0a,True,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The rabbit sees the bald eagle"" is true or false based on the given premises.",303,32,2.8e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,4,proof:a58835fc92a5ce0a,True,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The rabbit sees the bald eagle"" is true or false based on the given premises.",303,32,2.8e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,4,proof:7fd0c763cec2c99f,True,,"<think>
+Okay, so I'm trying to figure out if the hypothesis ""The dog chases the cat"" is entailed by the given premises. Let me",261,32,2.4e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,4,proof:7fd0c763cec2c99f,True,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog chases the cat"" is true or false based on the given premises.",316,32,2.8e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,4,proof:7fd0c763cec2c99f,True,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog chases the cat"" is true or false based on the given premises.",316,32,2.8e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,4,proof:67ffe05d9bdfe873,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog is not cold"" is entailed by the given premises. Let me go",230,32,2.2e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,4,proof:67ffe05d9bdfe873,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog is not cold"" is true or false based on the given premises. Let",285,32,2.6e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,4,proof:67ffe05d9bdfe873,False,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog is not cold"" is true or false based on the given premises. Let",285,32,2.6e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,4,proof:b85784eb09b7c363,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cow does not visit the bear"" is entailed by the given premises. Let",254,32,2.4e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,4,proof:b85784eb09b7c363,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cow does not visit the bear"" is true or false based on the given premises",309,32,2.8e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,4,proof:b85784eb09b7c363,False,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The cow does not visit the bear"" is true or false based on the given premises",309,32,2.8e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,4,proof:85a8292316281d9a,True,,"<think>
+Okay, so I'm trying to figure out if the hypothesis ""The dog needs the cow"" is entailed by the given premises. Let me go",215,32,2.1e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,4,proof:85a8292316281d9a,True,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog needs the cow"" is true or false based on the given premises. Let",270,32,2.5e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,4,proof:85a8292316281d9a,True,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The dog needs the cow"" is true or false based on the given premises. Let",270,32,2.5e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,4,proof:25c399b5bc9e019e,Unknown,,"<think>
+Okay, so I need to figure out if the hypothesis ""Dave is red"" is entailed by the given premises. Let me go through each premise",181,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,4,proof:25c399b5bc9e019e,Unknown,,"<think>
+Okay, so I'm trying to figure out whether Dave is red based on the given premises. Let me go through each premise step by step to see",236,32,2.2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,4,proof:25c399b5bc9e019e,Unknown,UNK,"<think>
+Okay, so I'm trying to figure out whether Dave is red based on the given premises. Let me go through each premise step by step to see",236,32,2.2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,4,proof:7828d8e4948c833d,False,,"<think>
+Okay, so I have this logic problem here with a bunch of premises and a hypothesis, and I need to figure out if the hypothesis is entailed",214,32,2.1e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,4,proof:7828d8e4948c833d,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The tiger does not see the bear"" is true or false based on the given premises",269,32,2.5e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,4,proof:7828d8e4948c833d,False,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The tiger does not see the bear"" is true or false based on the given premises",269,32,2.5e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,5,proof:34f03b7f18c766d4,True,,"<think>
+Okay, so I need to figure out if the hypothesis ""The lion visits the squirrel"" is entailed by the given premises. Let me go through",241,32,2.3e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,5,proof:34f03b7f18c766d4,True,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The lion visits the squirrel"" is true or false based on the given premises. Let",296,32,2.7e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,5,proof:34f03b7f18c766d4,True,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The lion visits the squirrel"" is true or false based on the given premises. Let",296,32,2.7e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,5,proof:078290908350c8ee,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The mouse does not need the mouse"" is entailed by the given premises. Let",256,32,2.4e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,5,proof:078290908350c8ee,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The mouse does not need the mouse"" is true or false based on the given premises",311,32,2.8e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,5,proof:078290908350c8ee,False,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The mouse does not need the mouse"" is true or false based on the given premises",311,32,2.8e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,5,proof:ae56255eed498b82,True,,"<think>
+Okay, so I need to figure out if the hypothesis ""The rabbit is not green"" is entailed by the given premises. Let me go through",227,32,2.2e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,5,proof:ae56255eed498b82,True,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The rabbit is not green"" is true or false based on the given premises. Let",282,32,2.6e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,5,proof:ae56255eed498b82,True,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The rabbit is not green"" is true or false based on the given premises. Let",282,32,2.6e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,5,proof:f38424329a4dfc56,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bear does not visit the bear"" is entailed by the given premises. Let",223,32,2.2e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,5,proof:f38424329a4dfc56,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bear does not visit the bear"" is true or false based on the given premises",278,32,2.6e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,5,proof:f38424329a4dfc56,False,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bear does not visit the bear"" is true or false based on the given premises",278,32,2.6e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,5,proof:213fe4dcb49d8254,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bear does not chase the rabbit"" is entailed by the given premises. Let",207,32,2e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,5,proof:213fe4dcb49d8254,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bear does not chase the rabbit"" is true or false based on the given premises",262,32,2.4e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,5,proof:213fe4dcb49d8254,False,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The bear does not chase the rabbit"" is true or false based on the given premises",262,32,2.4e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,5,proof:24af1aafb3a172a4,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The squirrel does not like the lion"" is entailed by the given premises. Let",173,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,5,proof:24af1aafb3a172a4,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The squirrel does not like the lion"" is true or false based on the given premises",228,32,2.2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,5,proof:24af1aafb3a172a4,False,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""The squirrel does not like the lion"" is true or false based on the given premises",228,32,2.2e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,5,proof:8e2b2a4a677148bd,True,,"<think>
+Alright, let's try to figure out if the hypothesis ""Dave is red"" is entailed by the given premises. I'll go through each premise",169,32,1.7e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,5,proof:8e2b2a4a677148bd,True,,"<think>
+Okay, so I'm trying to figure out whether Dave is red based on the given premises. Let me go through each premise step by step and see",224,32,2.2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,5,proof:8e2b2a4a677148bd,True,UNK,"<think>
+Okay, so I'm trying to figure out whether Dave is red based on the given premises. Let me go through each premise step by step and see",224,32,2.2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,5,proof:8079d11728bc6f96,False,,"<think>
+Okay, so I need to figure out if the hypothesis ""Gary is not rough"" is entailed by the given premises. Let me start by listing",112,32,1.3e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,5,proof:8079d11728bc6f96,False,,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""Gary is not rough"" is true or false based on the given premises. Let me",167,32,1.7e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,5,proof:8079d11728bc6f96,False,True,"<think>
+Okay, so I'm trying to figure out whether the hypothesis ""Gary is not rough"" is true or false based on the given premises. Let me",167,32,1.7e-05,,,64.0,True
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,5,proof:4421d9d36798017f,True,,"<think>
+Okay, so I need to figure out if Fiona is green based on the given premises. Let me start by listing out all the premises and see what",149,32,1.6e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,5,proof:4421d9d36798017f,True,,"<think>
+Okay, so I need to figure out whether Fiona is green based on the given premises. Let me go through each premise step by step and see what",204,32,2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,5,proof:4421d9d36798017f,True,UNK,"<think>
+Okay, so I need to figure out whether Fiona is green based on the given premises. Let me go through each premise step by step and see what",204,32,2e-05,,,64.0,False
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_answer@64,proofwriter,5,proof:ed3a0b8b1720e935,True,,"<think>
+Okay, so I need to figure out if the hypothesis ""Harry is kind"" is entailed by the given premises. Let me go through each premise",172,32,1.8e-05,,,32.0,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_verify@64,proofwriter,5,proof:ed3a0b8b1720e935,True,,"<think>
+Okay, so I'm trying to figure out whether Harry is kind based on the given premises. Let me go through each premise step by step and see",227,32,2.2e-05,,,,
+deepseek_r1d_qwen32b,deepinfra,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,av_64,proofwriter,5,proof:ed3a0b8b1720e935,True,UNK,"<think>
+Okay, so I'm trying to figure out whether Harry is kind based on the given premises. Let me go through each premise step by step and see",227,32,2.2e-05,,,64.0,False

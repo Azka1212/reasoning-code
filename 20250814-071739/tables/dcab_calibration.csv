@@ -1,0 +1,16 @@
+model_key,dataset,n,spearman_rho,ece
+deepseek_r1d_qwen32b,clutrr,0,,
+deepseek_r1d_qwen32b,overall,0,,
+deepseek_r1d_qwen32b,proofwriter,0,,
+glm45_air,clutrr,0,,
+glm45_air,overall,0,,
+glm45_air,proofwriter,0,,
+gpt5,clutrr,0,,
+gpt5,overall,0,,
+gpt5,proofwriter,0,,
+llama31_8b,clutrr,50,-0.3112,0.33
+llama31_8b,overall,100,-0.1768,0.288
+llama31_8b,proofwriter,50,0.0,0.39
+qwen25_7b,clutrr,50,0.2406,0.265
+qwen25_7b,overall,100,0.2348,0.232
+qwen25_7b,proofwriter,50,0.2107,0.315
