@@ -35,10 +35,11 @@ The findings show that reasoning gains at shallow depths collapse sharply as tas
 </p>
 
 
-## Publication
-### AAAI-26 Student Abstract  
-**Paper link:** *(final AAAI link)*  
+### AAAI-26 Student Abstract
+**Paper:** [When Reasoning Collapses: A Depth-Aware Probe into LLM Reasoning (Student Abstract)](https://ojs.aaai.org/index.php/AAAI/article/view/42223) · [Google Scholar search](https://scholar.google.com/scholar?q=%22When+Reasoning+Collapses%3A+A+Depth-Aware+Probe+into+LLM+Reasoning%22)
 **PDF in repo:** `Student_Abstract_AAAI.pdf`
+
+Presented this work as a poster at the Women in Machine Learning (WiML) Symposium at ICML 2026.
 
 
 ## Conclusion
