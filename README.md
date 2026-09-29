@@ -47,5 +47,26 @@ Reasoning prompts help only at **very shallow depths**.
 As depth increases, accuracy drops sharply, and in many cases reasoning accuracy falls **below direct answers**, revealing that current LLM reasoning is **brittle, depth-sensitive, and unstable**.  
 This framework provides a simple, reproducible way to measure collapse-depth and compare reasoning robustness across models.
 
+---
 
+## Implementation and reproduction guide
 
+Open `20250814-071739/AAAI_Abstract.ipynb` in Jupyter or Colab. Inspect its dependency, dataset, and model-configuration cells before running it. Saved predictions and plots can be reviewed without making new model calls. There is no root dependency lockfile or packaged command-line entry point.
+
+### Repository contents
+
+- [`20250814-071739/AAAI_Abstract.ipynb`](20250814-071739/AAAI_Abstract.ipynb)
+- [`20250814-071739/run_config.json`](20250814-071739/run_config.json)
+- [`20250814-071739/preds`](20250814-071739/preds)
+- [`20250814-071739/plots`](20250814-071739/plots)
+- [`AAAI/graphs-2/graphs.ipynb`](AAAI/graphs-2/graphs.ipynb)
+
+### Reproduction notes
+
+Reproducing model calls requires your own provider access and dataset configuration. Saved results are experiment artifacts, not a fresh validation run.
+
+## Portfolio
+
+[Project details and related work](https://azka1212.github.io/Azka-AI-Developer/#projects)
+
+> Documentation was checked against the repository source. Unless explicitly stated, setup commands describe the intended entry points and were not executed as part of this documentation update.
